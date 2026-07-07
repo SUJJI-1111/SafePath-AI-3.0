@@ -1,0 +1,501 @@
+Incident_ID,Vehicle_Type,Location,City,Obstruction_Type,Emergency_Status,Severity_Level,Reported_Time
+INC0001,Two Wheeler,Apartment Gate,Pune,Illegal Parking,Yes,Critical,2026-05-23 02:01:55.447517
+INC0002,Van,Traffic Junction,Hyderabad,Roadside Congestion,Yes,Critical,2026-05-25 20:48:55.447542
+INC0003,Car,Narrow Lane,Bangalore,Emergency Access Blocked,No,Critical,2026-05-22 16:39:55.447552
+INC0004,Mini Truck,Emergency Exit,Pune,Commercial Entrance Blocked,No,Critical,2026-05-25 05:38:55.447559
+INC0005,Van,Residential Street,Kochi,Commercial Entrance Blocked,No,Medium,2026-05-21 09:26:55.447619
+INC0006,Auto Rickshaw,Shop Entrance,Mumbai,Gate Blockage,Yes,Critical,2026-05-22 10:58:55.447626
+INC0007,Auto Rickshaw,Hospital Entrance,Pune,Roadside Congestion,No,Critical,2026-05-22 21:57:55.447633
+INC0008,Car,Pedestrian Sidewalk,Kochi,Illegal Parking,Yes,Critical,2026-05-27 08:57:55.447639
+INC0009,Car,Pedestrian Sidewalk,Mumbai,Pedestrian Path Obstructed,No,Low,2026-05-21 16:20:55.447644
+INC0010,Two Wheeler,Residential Street,Mumbai,Illegal Parking,No,Low,2026-05-24 09:30:55.447650
+INC0011,Mini Truck,Pedestrian Sidewalk,Pune,Commercial Entrance Blocked,No,Medium,2026-05-21 03:49:55.447655
+INC0012,Van,Pedestrian Sidewalk,Delhi,Illegal Parking,Yes,Critical,2026-05-26 03:35:55.447660
+INC0013,Van,Pedestrian Sidewalk,Bangalore,Pedestrian Path Obstructed,No,Low,2026-05-27 12:26:55.447665
+INC0014,Mini Truck,Emergency Exit,Hyderabad,Gate Blockage,No,Critical,2026-05-24 14:52:55.447670
+INC0015,Taxi,Shop Entrance,Pune,Roadside Congestion,Yes,Critical,2026-05-26 01:18:55.447675
+INC0016,Auto Rickshaw,Emergency Exit,Mumbai,Pedestrian Path Obstructed,No,Critical,2026-05-23 02:25:55.447680
+INC0017,Mini Truck,Hospital Entrance,Pune,Gate Blockage,No,Critical,2026-05-21 08:58:55.447685
+INC0018,Taxi,Commercial Complex,Mumbai,Pedestrian Path Obstructed,Yes,Critical,2026-05-26 21:55:55.447689
+INC0019,Taxi,Hospital Entrance,Mumbai,Illegal Parking,No,Critical,2026-05-27 06:26:55.447694
+INC0020,Mini Truck,Traffic Junction,Bangalore,Emergency Access Blocked,Yes,Critical,2026-05-23 00:30:55.447699
+INC0021,Car,School Zone,Chennai,Illegal Parking,No,Low,2026-05-21 08:05:55.447703
+INC0022,Two Wheeler,Apartment Gate,Kochi,Roadside Congestion,Yes,Critical,2026-05-26 15:24:55.447708
+INC0023,Two Wheeler,Emergency Exit,Bangalore,Emergency Access Blocked,Yes,Critical,2026-05-24 11:01:55.447713
+INC0024,Van,School Zone,Kochi,Gate Blockage,Yes,Critical,2026-05-26 14:53:55.447717
+INC0025,Van,Hospital Entrance,Chennai,Roadside Congestion,No,Critical,2026-05-23 19:49:55.447722
+INC0026,Two Wheeler,Narrow Lane,Kochi,Gate Blockage,Yes,Critical,2026-05-26 05:59:55.447727
+INC0027,Mini Truck,School Zone,Kochi,Commercial Entrance Blocked,No,Medium,2026-05-22 07:25:55.447732
+INC0028,Mini Truck,Pedestrian Sidewalk,Hyderabad,Roadside Congestion,Yes,Critical,2026-05-25 23:33:55.447736
+INC0029,Taxi,Commercial Complex,Kochi,Gate Blockage,Yes,Critical,2026-05-26 06:22:55.447741
+INC0030,Two Wheeler,School Zone,Hyderabad,Roadside Congestion,No,Low,2026-05-22 00:15:55.447745
+INC0031,Mini Truck,School Zone,Kochi,Commercial Entrance Blocked,No,Medium,2026-05-21 23:02:55.447750
+INC0032,Car,Pedestrian Sidewalk,Chennai,Illegal Parking,Yes,Critical,2026-05-20 20:11:55.447755
+INC0033,Two Wheeler,Pedestrian Sidewalk,Bangalore,Gate Blockage,No,Medium,2026-05-24 15:01:55.447759
+INC0034,Mini Truck,Apartment Gate,Kochi,Roadside Congestion,Yes,Critical,2026-05-24 15:44:55.447764
+INC0035,Two Wheeler,Emergency Exit,Delhi,Gate Blockage,Yes,Critical,2026-05-22 09:43:55.447768
+INC0036,Mini Truck,Traffic Junction,Chennai,Emergency Access Blocked,No,Critical,2026-05-24 07:10:55.447773
+INC0037,Auto Rickshaw,School Zone,Kochi,Gate Blockage,Yes,Critical,2026-05-27 01:25:55.447777
+INC0038,Two Wheeler,Commercial Complex,Delhi,Illegal Parking,Yes,Critical,2026-05-20 23:25:55.447782
+INC0039,Van,School Zone,Mumbai,Pedestrian Path Obstructed,No,Low,2026-05-25 01:05:55.447787
+INC0040,Taxi,Residential Street,Mumbai,Gate Blockage,Yes,Critical,2026-05-21 23:00:55.447791
+INC0041,Taxi,Emergency Exit,Chennai,Pedestrian Path Obstructed,No,Critical,2026-05-23 12:57:55.447796
+INC0042,Taxi,Hospital Entrance,Hyderabad,Gate Blockage,No,Critical,2026-05-23 15:23:55.447801
+INC0043,Auto Rickshaw,Emergency Exit,Bangalore,Illegal Parking,Yes,Critical,2026-05-23 04:38:55.447805
+INC0044,Van,Hospital Entrance,Chennai,Pedestrian Path Obstructed,Yes,Critical,2026-05-26 21:33:55.447810
+INC0045,Taxi,Narrow Lane,Bangalore,Illegal Parking,Yes,Critical,2026-05-21 00:57:55.447815
+INC0046,Car,Hospital Entrance,Mumbai,Illegal Parking,No,Critical,2026-05-23 10:24:55.447820
+INC0047,Mini Truck,Apartment Gate,Mumbai,Commercial Entrance Blocked,No,Medium,2026-05-25 19:33:55.447825
+INC0048,Van,Residential Street,Chennai,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 16:12:55.447829
+INC0049,Mini Truck,Traffic Junction,Hyderabad,Commercial Entrance Blocked,No,Medium,2026-05-21 13:00:55.447834
+INC0050,Taxi,Traffic Junction,Bangalore,Roadside Congestion,No,Low,2026-05-21 05:54:55.447839
+INC0051,Mini Truck,Emergency Exit,Delhi,Emergency Access Blocked,Yes,Critical,2026-05-20 20:46:55.447843
+INC0052,Auto Rickshaw,Apartment Gate,Pune,Illegal Parking,No,Low,2026-05-21 10:02:55.447848
+INC0053,Two Wheeler,Residential Street,Mumbai,Gate Blockage,Yes,Critical,2026-05-24 23:06:55.447853
+INC0054,Taxi,Pedestrian Sidewalk,Mumbai,Illegal Parking,Yes,Critical,2026-05-21 11:43:55.447857
+INC0055,Two Wheeler,Commercial Complex,Chennai,Roadside Congestion,No,Low,2026-05-22 21:05:55.447862
+INC0056,Taxi,School Zone,Hyderabad,Emergency Access Blocked,Yes,Critical,2026-05-24 16:16:55.447867
+INC0057,Car,Hospital Entrance,Bangalore,Emergency Access Blocked,Yes,Critical,2026-05-26 14:47:55.447871
+INC0058,Van,Shop Entrance,Hyderabad,Emergency Access Blocked,No,Critical,2026-05-26 13:26:55.447876
+INC0059,Auto Rickshaw,Pedestrian Sidewalk,Mumbai,Emergency Access Blocked,Yes,Critical,2026-05-26 17:12:55.447880
+INC0060,Auto Rickshaw,Apartment Gate,Hyderabad,Illegal Parking,No,Low,2026-05-20 22:15:55.447885
+INC0061,Van,Residential Street,Hyderabad,Gate Blockage,No,Medium,2026-05-22 23:32:55.447890
+INC0062,Van,Pedestrian Sidewalk,Bangalore,Gate Blockage,Yes,Critical,2026-05-21 07:30:55.447895
+INC0063,Auto Rickshaw,Emergency Exit,Bangalore,Roadside Congestion,Yes,Critical,2026-05-21 10:16:55.447899
+INC0064,Auto Rickshaw,Emergency Exit,Kochi,Pedestrian Path Obstructed,Yes,Critical,2026-05-27 01:03:55.447904
+INC0065,Car,Pedestrian Sidewalk,Mumbai,Roadside Congestion,No,Low,2026-05-23 07:58:55.447909
+INC0066,Two Wheeler,Traffic Junction,Kochi,Commercial Entrance Blocked,Yes,Critical,2026-05-27 07:07:55.447914
+INC0067,Taxi,Emergency Exit,Kochi,Emergency Access Blocked,Yes,Critical,2026-05-23 10:16:55.447918
+INC0068,Mini Truck,Commercial Complex,Chennai,Emergency Access Blocked,Yes,Critical,2026-05-24 01:39:55.447924
+INC0069,Taxi,Traffic Junction,Kochi,Emergency Access Blocked,Yes,Critical,2026-05-21 12:21:55.447928
+INC0070,Auto Rickshaw,Residential Street,Pune,Commercial Entrance Blocked,No,Medium,2026-05-23 17:50:55.447933
+INC0071,Taxi,Apartment Gate,Kochi,Pedestrian Path Obstructed,No,Low,2026-05-26 10:06:55.447937
+INC0072,Car,Pedestrian Sidewalk,Hyderabad,Roadside Congestion,Yes,Critical,2026-05-23 17:29:55.447942
+INC0073,Mini Truck,Commercial Complex,Bangalore,Pedestrian Path Obstructed,Yes,Critical,2026-05-27 12:39:55.447946
+INC0074,Van,Residential Street,Delhi,Gate Blockage,Yes,Critical,2026-05-24 21:51:55.447952
+INC0075,Auto Rickshaw,Apartment Gate,Chennai,Commercial Entrance Blocked,Yes,Critical,2026-05-23 15:06:55.447956
+INC0076,Van,School Zone,Chennai,Roadside Congestion,Yes,Critical,2026-05-23 00:01:55.447961
+INC0077,Auto Rickshaw,Apartment Gate,Bangalore,Commercial Entrance Blocked,No,Medium,2026-05-22 11:08:55.447966
+INC0078,Van,Shop Entrance,Hyderabad,Emergency Access Blocked,No,Critical,2026-05-26 08:13:55.447970
+INC0079,Two Wheeler,Apartment Gate,Mumbai,Emergency Access Blocked,Yes,Critical,2026-05-26 11:45:55.447975
+INC0080,Taxi,Traffic Junction,Delhi,Commercial Entrance Blocked,No,Medium,2026-05-22 07:46:55.447980
+INC0081,Auto Rickshaw,Residential Street,Mumbai,Pedestrian Path Obstructed,Yes,Critical,2026-05-22 23:58:55.447984
+INC0082,Taxi,Apartment Gate,Mumbai,Roadside Congestion,Yes,Critical,2026-05-25 08:09:55.447989
+INC0083,Taxi,Emergency Exit,Chennai,Emergency Access Blocked,Yes,Critical,2026-05-27 01:08:55.447994
+INC0084,Mini Truck,Narrow Lane,Pune,Emergency Access Blocked,Yes,Critical,2026-05-26 16:29:55.447999
+INC0085,Car,Residential Street,Chennai,Roadside Congestion,No,Low,2026-05-27 11:13:55.448003
+INC0086,Van,Commercial Complex,Pune,Gate Blockage,No,Medium,2026-05-21 08:51:55.448008
+INC0087,Taxi,Commercial Complex,Kochi,Pedestrian Path Obstructed,Yes,Critical,2026-05-21 09:35:55.448013
+INC0088,Two Wheeler,Hospital Entrance,Delhi,Illegal Parking,No,Critical,2026-05-25 07:22:55.448018
+INC0089,Car,Hospital Entrance,Hyderabad,Emergency Access Blocked,Yes,Critical,2026-05-26 19:13:55.448023
+INC0090,Car,Shop Entrance,Kochi,Commercial Entrance Blocked,No,Medium,2026-05-26 09:02:55.448027
+INC0091,Van,School Zone,Delhi,Emergency Access Blocked,No,Critical,2026-05-25 04:09:55.448032
+INC0092,Auto Rickshaw,Hospital Entrance,Hyderabad,Pedestrian Path Obstructed,Yes,Critical,2026-05-25 17:36:55.448037
+INC0093,Two Wheeler,Pedestrian Sidewalk,Chennai,Illegal Parking,No,Low,2026-05-27 12:40:55.448041
+INC0094,Auto Rickshaw,Hospital Entrance,Delhi,Illegal Parking,Yes,Critical,2026-05-20 21:30:55.448046
+INC0095,Mini Truck,Emergency Exit,Hyderabad,Roadside Congestion,Yes,Critical,2026-05-22 10:42:55.448051
+INC0096,Mini Truck,Commercial Complex,Mumbai,Pedestrian Path Obstructed,No,Low,2026-05-26 20:55:55.448065
+INC0097,Mini Truck,Hospital Entrance,Delhi,Roadside Congestion,No,Critical,2026-05-24 23:09:55.448072
+INC0098,Two Wheeler,Emergency Exit,Chennai,Illegal Parking,Yes,Critical,2026-05-26 16:03:55.448077
+INC0099,Car,Pedestrian Sidewalk,Hyderabad,Emergency Access Blocked,Yes,Critical,2026-05-22 21:06:55.448081
+INC0100,Two Wheeler,Commercial Complex,Hyderabad,Emergency Access Blocked,Yes,Critical,2026-05-22 08:42:55.448086
+INC0101,Taxi,School Zone,Mumbai,Commercial Entrance Blocked,Yes,Critical,2026-05-27 00:45:55.448090
+INC0102,Two Wheeler,Shop Entrance,Mumbai,Commercial Entrance Blocked,No,Medium,2026-05-23 04:48:55.448095
+INC0103,Two Wheeler,Hospital Entrance,Hyderabad,Emergency Access Blocked,Yes,Critical,2026-05-25 09:40:55.448100
+INC0104,Car,Residential Street,Delhi,Emergency Access Blocked,Yes,Critical,2026-05-25 09:00:55.448104
+INC0105,Car,Apartment Gate,Delhi,Illegal Parking,No,Low,2026-05-26 06:07:55.448109
+INC0106,Van,School Zone,Mumbai,Illegal Parking,No,Low,2026-05-26 15:27:55.448114
+INC0107,Two Wheeler,Residential Street,Hyderabad,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 15:48:55.448118
+INC0108,Two Wheeler,Residential Street,Hyderabad,Gate Blockage,No,Medium,2026-05-22 20:15:55.448123
+INC0109,Mini Truck,Residential Street,Bangalore,Roadside Congestion,No,Low,2026-05-21 09:56:55.448128
+INC0110,Mini Truck,Commercial Complex,Bangalore,Commercial Entrance Blocked,No,Medium,2026-05-22 07:05:55.448133
+INC0111,Taxi,Shop Entrance,Pune,Roadside Congestion,Yes,Critical,2026-05-23 20:29:55.448137
+INC0112,Mini Truck,Apartment Gate,Delhi,Illegal Parking,Yes,Critical,2026-05-26 13:00:55.448142
+INC0113,Two Wheeler,School Zone,Bangalore,Roadside Congestion,Yes,Critical,2026-05-23 10:41:55.448147
+INC0114,Mini Truck,Shop Entrance,Chennai,Pedestrian Path Obstructed,No,Low,2026-05-25 11:47:55.448151
+INC0115,Mini Truck,Narrow Lane,Hyderabad,Gate Blockage,No,Medium,2026-05-26 02:50:55.448156
+INC0116,Van,Narrow Lane,Hyderabad,Pedestrian Path Obstructed,Yes,Critical,2026-05-22 03:37:55.448160
+INC0117,Two Wheeler,Traffic Junction,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-22 19:52:55.448165
+INC0118,Car,Pedestrian Sidewalk,Mumbai,Pedestrian Path Obstructed,Yes,Critical,2026-05-26 11:27:55.448214
+INC0119,Taxi,Apartment Gate,Chennai,Gate Blockage,Yes,Critical,2026-05-27 02:02:55.448223
+INC0120,Auto Rickshaw,Hospital Entrance,Mumbai,Gate Blockage,No,Critical,2026-05-25 12:59:55.448233
+INC0121,Taxi,Narrow Lane,Bangalore,Gate Blockage,No,Medium,2026-05-24 13:49:55.448243
+INC0122,Car,Apartment Gate,Mumbai,Gate Blockage,Yes,Critical,2026-05-25 23:21:55.448248
+INC0123,Mini Truck,Apartment Gate,Hyderabad,Emergency Access Blocked,Yes,Critical,2026-05-24 00:01:55.448253
+INC0124,Mini Truck,Traffic Junction,Bangalore,Emergency Access Blocked,Yes,Critical,2026-05-22 14:49:55.448257
+INC0125,Two Wheeler,Shop Entrance,Chennai,Roadside Congestion,Yes,Critical,2026-05-21 10:21:55.448262
+INC0126,Auto Rickshaw,Apartment Gate,Bangalore,Pedestrian Path Obstructed,Yes,Critical,2026-05-25 17:41:55.448267
+INC0127,Car,School Zone,Mumbai,Emergency Access Blocked,No,Critical,2026-05-22 08:16:55.448271
+INC0128,Auto Rickshaw,Residential Street,Pune,Illegal Parking,Yes,Critical,2026-05-23 07:25:55.448276
+INC0129,Car,Apartment Gate,Delhi,Gate Blockage,No,Medium,2026-05-24 15:12:55.448280
+INC0130,Car,Apartment Gate,Chennai,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 14:10:55.448285
+INC0131,Two Wheeler,School Zone,Delhi,Emergency Access Blocked,No,Critical,2026-05-25 04:47:55.448290
+INC0132,Taxi,Hospital Entrance,Pune,Commercial Entrance Blocked,Yes,Critical,2026-05-22 14:29:55.448295
+INC0133,Van,Traffic Junction,Pune,Emergency Access Blocked,No,Critical,2026-05-26 22:38:55.448299
+INC0134,Two Wheeler,Traffic Junction,Pune,Pedestrian Path Obstructed,No,Low,2026-05-27 11:46:55.448304
+INC0135,Van,Pedestrian Sidewalk,Kochi,Gate Blockage,Yes,Critical,2026-05-24 11:55:55.448308
+INC0136,Two Wheeler,Hospital Entrance,Mumbai,Gate Blockage,Yes,Critical,2026-05-26 12:27:55.448313
+INC0137,Mini Truck,Commercial Complex,Chennai,Roadside Congestion,Yes,Critical,2026-05-27 10:56:55.448318
+INC0138,Auto Rickshaw,School Zone,Hyderabad,Pedestrian Path Obstructed,No,Low,2026-05-27 03:46:55.448322
+INC0139,Two Wheeler,Traffic Junction,Mumbai,Pedestrian Path Obstructed,Yes,Critical,2026-05-26 15:52:55.448330
+INC0140,Car,Commercial Complex,Hyderabad,Illegal Parking,No,Low,2026-05-27 10:00:55.448335
+INC0141,Taxi,Shop Entrance,Kochi,Emergency Access Blocked,Yes,Critical,2026-05-24 05:13:55.448341
+INC0142,Two Wheeler,Residential Street,Pune,Emergency Access Blocked,No,Critical,2026-05-26 08:32:55.448345
+INC0143,Two Wheeler,Emergency Exit,Kochi,Commercial Entrance Blocked,No,Critical,2026-05-22 01:13:55.448350
+INC0144,Auto Rickshaw,Pedestrian Sidewalk,Chennai,Pedestrian Path Obstructed,No,Low,2026-05-25 15:02:55.448355
+INC0145,Two Wheeler,Commercial Complex,Pune,Gate Blockage,Yes,Critical,2026-05-27 10:35:55.448359
+INC0146,Van,Narrow Lane,Mumbai,Emergency Access Blocked,No,Critical,2026-05-25 16:12:55.448364
+INC0147,Car,Narrow Lane,Delhi,Emergency Access Blocked,No,Critical,2026-05-26 23:37:55.448369
+INC0148,Van,Shop Entrance,Mumbai,Pedestrian Path Obstructed,No,Low,2026-05-21 22:59:55.448374
+INC0149,Two Wheeler,Commercial Complex,Delhi,Gate Blockage,Yes,Critical,2026-05-22 06:17:55.448378
+INC0150,Mini Truck,Shop Entrance,Kochi,Pedestrian Path Obstructed,Yes,Critical,2026-05-26 17:49:55.448385
+INC0151,Van,Residential Street,Kochi,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 08:30:55.448390
+INC0152,Auto Rickshaw,Pedestrian Sidewalk,Chennai,Illegal Parking,No,Low,2026-05-21 16:55:55.448395
+INC0153,Mini Truck,School Zone,Chennai,Commercial Entrance Blocked,Yes,Critical,2026-05-22 05:00:55.448399
+INC0154,Two Wheeler,Narrow Lane,Hyderabad,Commercial Entrance Blocked,No,Medium,2026-05-23 10:14:55.448404
+INC0155,Car,Residential Street,Pune,Illegal Parking,Yes,Critical,2026-05-24 05:21:55.448409
+INC0156,Mini Truck,School Zone,Hyderabad,Gate Blockage,No,Medium,2026-05-24 13:42:55.448413
+INC0157,Two Wheeler,School Zone,Chennai,Gate Blockage,No,Medium,2026-05-25 02:58:55.448418
+INC0158,Van,Narrow Lane,Pune,Illegal Parking,No,Low,2026-05-25 15:11:55.448423
+INC0159,Mini Truck,Pedestrian Sidewalk,Kochi,Gate Blockage,Yes,Critical,2026-05-24 20:13:55.448428
+INC0160,Taxi,Residential Street,Hyderabad,Roadside Congestion,No,Low,2026-05-25 14:33:55.448432
+INC0161,Taxi,Pedestrian Sidewalk,Pune,Commercial Entrance Blocked,Yes,Critical,2026-05-24 16:27:55.448437
+INC0162,Taxi,Apartment Gate,Pune,Roadside Congestion,No,Low,2026-05-21 12:59:55.448442
+INC0163,Mini Truck,Shop Entrance,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-21 17:37:55.448446
+INC0164,Taxi,Residential Street,Hyderabad,Emergency Access Blocked,Yes,Critical,2026-05-27 06:53:55.448451
+INC0165,Car,Residential Street,Delhi,Illegal Parking,Yes,Critical,2026-05-21 09:09:55.448456
+INC0166,Auto Rickshaw,Hospital Entrance,Kochi,Illegal Parking,Yes,Critical,2026-05-21 20:25:55.448460
+INC0167,Taxi,Shop Entrance,Kochi,Emergency Access Blocked,No,Critical,2026-05-25 18:47:55.448465
+INC0168,Van,School Zone,Kochi,Commercial Entrance Blocked,No,Medium,2026-05-23 15:21:55.448469
+INC0169,Mini Truck,Emergency Exit,Kochi,Gate Blockage,No,Critical,2026-05-24 17:41:55.448474
+INC0170,Car,Emergency Exit,Chennai,Emergency Access Blocked,Yes,Critical,2026-05-21 01:45:55.448479
+INC0171,Auto Rickshaw,Pedestrian Sidewalk,Chennai,Roadside Congestion,Yes,Critical,2026-05-20 19:25:55.448483
+INC0172,Car,Commercial Complex,Chennai,Pedestrian Path Obstructed,No,Low,2026-05-21 09:08:55.448488
+INC0173,Van,Emergency Exit,Bangalore,Pedestrian Path Obstructed,No,Critical,2026-05-24 10:27:55.448492
+INC0174,Taxi,Apartment Gate,Pune,Commercial Entrance Blocked,No,Medium,2026-05-24 08:28:55.448497
+INC0175,Mini Truck,Pedestrian Sidewalk,Chennai,Illegal Parking,No,Low,2026-05-24 06:06:55.448502
+INC0176,Van,School Zone,Chennai,Commercial Entrance Blocked,Yes,Critical,2026-05-22 01:05:55.448506
+INC0177,Van,Emergency Exit,Bangalore,Emergency Access Blocked,No,Critical,2026-05-25 11:31:55.448511
+INC0178,Van,Traffic Junction,Chennai,Gate Blockage,No,Medium,2026-05-26 09:43:55.448515
+INC0179,Car,Emergency Exit,Hyderabad,Emergency Access Blocked,No,Critical,2026-05-25 17:30:55.448520
+INC0180,Mini Truck,Emergency Exit,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-27 08:10:55.448525
+INC0181,Car,School Zone,Bangalore,Emergency Access Blocked,No,Critical,2026-05-26 17:59:55.448531
+INC0182,Auto Rickshaw,Emergency Exit,Hyderabad,Illegal Parking,No,Critical,2026-05-26 09:55:55.448537
+INC0183,Car,Commercial Complex,Mumbai,Illegal Parking,Yes,Critical,2026-05-26 01:48:55.448542
+INC0184,Mini Truck,Emergency Exit,Hyderabad,Gate Blockage,Yes,Critical,2026-05-24 17:44:55.448547
+INC0185,Taxi,Shop Entrance,Kochi,Illegal Parking,Yes,Critical,2026-05-26 18:32:55.448552
+INC0186,Taxi,Shop Entrance,Hyderabad,Roadside Congestion,Yes,Critical,2026-05-26 20:03:55.448556
+INC0187,Mini Truck,Traffic Junction,Delhi,Pedestrian Path Obstructed,Yes,Critical,2026-05-24 18:45:55.448561
+INC0188,Car,Shop Entrance,Pune,Gate Blockage,Yes,Critical,2026-05-21 20:22:55.448571
+INC0189,Van,Apartment Gate,Hyderabad,Gate Blockage,Yes,Critical,2026-05-27 11:52:55.448576
+INC0190,Two Wheeler,Apartment Gate,Kochi,Commercial Entrance Blocked,Yes,Critical,2026-05-20 23:08:55.448581
+INC0191,Mini Truck,Pedestrian Sidewalk,Bangalore,Gate Blockage,Yes,Critical,2026-05-25 02:34:55.448585
+INC0192,Van,Commercial Complex,Pune,Illegal Parking,No,Low,2026-05-25 16:54:55.448590
+INC0193,Car,Residential Street,Mumbai,Commercial Entrance Blocked,Yes,Critical,2026-05-27 11:19:55.448594
+INC0194,Two Wheeler,Apartment Gate,Delhi,Emergency Access Blocked,Yes,Critical,2026-05-27 00:11:55.448599
+INC0195,Taxi,School Zone,Hyderabad,Emergency Access Blocked,No,Critical,2026-05-24 14:05:55.448604
+INC0196,Taxi,School Zone,Hyderabad,Illegal Parking,Yes,Critical,2026-05-25 07:10:55.448608
+INC0197,Auto Rickshaw,Hospital Entrance,Chennai,Roadside Congestion,No,Critical,2026-05-27 14:03:55.448613
+INC0198,Two Wheeler,School Zone,Kochi,Illegal Parking,No,Low,2026-05-26 09:33:55.448617
+INC0199,Car,Narrow Lane,Mumbai,Pedestrian Path Obstructed,Yes,Critical,2026-05-22 21:17:55.448622
+INC0200,Taxi,Traffic Junction,Mumbai,Illegal Parking,Yes,Critical,2026-05-22 03:53:55.448627
+INC0201,Car,Traffic Junction,Kochi,Illegal Parking,No,Low,2026-05-27 04:49:55.448631
+INC0202,Mini Truck,Hospital Entrance,Chennai,Pedestrian Path Obstructed,No,Critical,2026-05-25 20:39:55.448636
+INC0203,Van,Shop Entrance,Bangalore,Pedestrian Path Obstructed,Yes,Critical,2026-05-24 09:00:55.448641
+INC0204,Car,Apartment Gate,Kochi,Emergency Access Blocked,Yes,Critical,2026-05-21 03:09:55.448646
+INC0205,Car,Residential Street,Mumbai,Emergency Access Blocked,Yes,Critical,2026-05-21 20:10:55.448650
+INC0206,Taxi,Emergency Exit,Bangalore,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 05:28:55.448655
+INC0207,Two Wheeler,Traffic Junction,Mumbai,Emergency Access Blocked,Yes,Critical,2026-05-21 06:48:55.448660
+INC0208,Taxi,Hospital Entrance,Chennai,Pedestrian Path Obstructed,No,Critical,2026-05-27 05:50:55.448665
+INC0209,Two Wheeler,Hospital Entrance,Kochi,Commercial Entrance Blocked,Yes,Critical,2026-05-22 11:25:55.448671
+INC0210,Auto Rickshaw,Hospital Entrance,Mumbai,Illegal Parking,Yes,Critical,2026-05-24 17:09:55.448676
+INC0211,Van,Hospital Entrance,Mumbai,Illegal Parking,Yes,Critical,2026-05-22 09:35:55.448680
+INC0212,Mini Truck,Hospital Entrance,Chennai,Commercial Entrance Blocked,Yes,Critical,2026-05-21 03:22:55.448685
+INC0213,Van,Hospital Entrance,Pune,Emergency Access Blocked,No,Critical,2026-05-22 20:37:55.448689
+INC0214,Taxi,School Zone,Hyderabad,Commercial Entrance Blocked,No,Medium,2026-05-22 10:19:55.448696
+INC0215,Taxi,Pedestrian Sidewalk,Delhi,Gate Blockage,Yes,Critical,2026-05-26 17:14:55.448701
+INC0216,Two Wheeler,Emergency Exit,Pune,Gate Blockage,Yes,Critical,2026-05-24 23:11:55.448705
+INC0217,Two Wheeler,Narrow Lane,Chennai,Pedestrian Path Obstructed,Yes,Critical,2026-05-24 04:20:55.448710
+INC0218,Car,Traffic Junction,Bangalore,Pedestrian Path Obstructed,No,Low,2026-05-22 01:40:55.448714
+INC0219,Two Wheeler,Apartment Gate,Hyderabad,Illegal Parking,No,Low,2026-05-21 08:50:55.448719
+INC0220,Auto Rickshaw,Shop Entrance,Pune,Emergency Access Blocked,Yes,Critical,2026-05-25 03:43:55.448724
+INC0221,Car,Traffic Junction,Delhi,Pedestrian Path Obstructed,No,Low,2026-05-21 00:25:55.448728
+INC0222,Auto Rickshaw,Shop Entrance,Chennai,Illegal Parking,Yes,Critical,2026-05-24 01:24:55.448733
+INC0223,Two Wheeler,Pedestrian Sidewalk,Mumbai,Pedestrian Path Obstructed,No,Low,2026-05-26 19:47:55.448738
+INC0224,Two Wheeler,Traffic Junction,Chennai,Commercial Entrance Blocked,Yes,Critical,2026-05-26 04:54:55.448744
+INC0225,Auto Rickshaw,Emergency Exit,Chennai,Roadside Congestion,No,Critical,2026-05-23 08:10:55.448749
+INC0226,Taxi,Emergency Exit,Delhi,Gate Blockage,No,Critical,2026-05-23 01:09:55.448753
+INC0227,Mini Truck,Pedestrian Sidewalk,Mumbai,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 17:26:55.448758
+INC0228,Van,Commercial Complex,Bangalore,Emergency Access Blocked,Yes,Critical,2026-05-25 14:07:55.448763
+INC0229,Taxi,School Zone,Pune,Illegal Parking,Yes,Critical,2026-05-25 04:15:55.448767
+INC0230,Van,Hospital Entrance,Delhi,Pedestrian Path Obstructed,No,Critical,2026-05-23 12:47:55.448772
+INC0231,Taxi,Narrow Lane,Pune,Pedestrian Path Obstructed,No,Low,2026-05-26 01:43:55.448777
+INC0232,Mini Truck,Narrow Lane,Chennai,Roadside Congestion,No,Low,2026-05-23 07:55:55.448782
+INC0233,Two Wheeler,Residential Street,Chennai,Pedestrian Path Obstructed,No,Low,2026-05-27 07:53:55.448786
+INC0234,Van,Traffic Junction,Pune,Emergency Access Blocked,Yes,Critical,2026-05-23 18:40:55.448791
+INC0235,Two Wheeler,School Zone,Bangalore,Commercial Entrance Blocked,No,Medium,2026-05-23 01:32:55.448795
+INC0236,Van,Residential Street,Bangalore,Pedestrian Path Obstructed,Yes,Critical,2026-05-25 15:35:55.448800
+INC0237,Van,Hospital Entrance,Mumbai,Pedestrian Path Obstructed,Yes,Critical,2026-05-27 08:36:55.448804
+INC0238,Van,Apartment Gate,Hyderabad,Roadside Congestion,No,Low,2026-05-22 08:28:55.448809
+INC0239,Two Wheeler,Emergency Exit,Kochi,Illegal Parking,Yes,Critical,2026-05-25 16:33:55.448814
+INC0240,Van,Narrow Lane,Pune,Pedestrian Path Obstructed,Yes,Critical,2026-05-21 05:26:55.448818
+INC0241,Van,Pedestrian Sidewalk,Kochi,Emergency Access Blocked,Yes,Critical,2026-05-26 23:34:55.448823
+INC0242,Two Wheeler,Hospital Entrance,Bangalore,Commercial Entrance Blocked,No,Critical,2026-05-21 03:14:55.448828
+INC0243,Car,Pedestrian Sidewalk,Kochi,Pedestrian Path Obstructed,Yes,Critical,2026-05-26 12:25:55.448832
+INC0244,Auto Rickshaw,Traffic Junction,Mumbai,Pedestrian Path Obstructed,No,Low,2026-05-26 03:02:55.448837
+INC0245,Van,Shop Entrance,Chennai,Commercial Entrance Blocked,No,Medium,2026-05-22 05:26:55.448841
+INC0246,Car,Narrow Lane,Bangalore,Gate Blockage,No,Medium,2026-05-24 03:36:55.448848
+INC0247,Two Wheeler,Apartment Gate,Pune,Pedestrian Path Obstructed,Yes,Critical,2026-05-24 11:47:55.448853
+INC0248,Van,Residential Street,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-26 19:19:55.448857
+INC0249,Taxi,Narrow Lane,Bangalore,Roadside Congestion,Yes,Critical,2026-05-25 22:51:55.448862
+INC0250,Van,Shop Entrance,Bangalore,Pedestrian Path Obstructed,Yes,Critical,2026-05-25 00:29:55.448867
+INC0251,Car,Traffic Junction,Hyderabad,Illegal Parking,No,Low,2026-05-25 21:10:55.448872
+INC0252,Mini Truck,Pedestrian Sidewalk,Kochi,Commercial Entrance Blocked,Yes,Critical,2026-05-21 02:03:55.448876
+INC0253,Mini Truck,Residential Street,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-26 22:19:55.448881
+INC0254,Taxi,Shop Entrance,Kochi,Pedestrian Path Obstructed,Yes,Critical,2026-05-24 03:25:55.448886
+INC0255,Taxi,Shop Entrance,Pune,Pedestrian Path Obstructed,No,Low,2026-05-27 05:38:55.448890
+INC0256,Car,Apartment Gate,Bangalore,Pedestrian Path Obstructed,No,Low,2026-05-26 19:19:55.448895
+INC0257,Car,Emergency Exit,Chennai,Illegal Parking,Yes,Critical,2026-05-23 17:24:55.448900
+INC0258,Taxi,Residential Street,Kochi,Commercial Entrance Blocked,No,Medium,2026-05-24 04:46:55.448905
+INC0259,Auto Rickshaw,Shop Entrance,Pune,Roadside Congestion,No,Low,2026-05-23 03:56:55.448910
+INC0260,Taxi,Emergency Exit,Pune,Emergency Access Blocked,No,Critical,2026-05-23 14:57:55.448915
+INC0261,Van,Emergency Exit,Delhi,Emergency Access Blocked,Yes,Critical,2026-05-21 02:50:55.448921
+INC0262,Van,Emergency Exit,Kochi,Emergency Access Blocked,No,Critical,2026-05-22 06:38:55.448925
+INC0263,Auto Rickshaw,Traffic Junction,Pune,Roadside Congestion,Yes,Critical,2026-05-21 19:00:55.448930
+INC0264,Mini Truck,Pedestrian Sidewalk,Pune,Illegal Parking,No,Low,2026-05-24 06:23:55.448934
+INC0265,Van,Hospital Entrance,Pune,Roadside Congestion,Yes,Critical,2026-05-20 17:53:55.448939
+INC0266,Car,Commercial Complex,Pune,Illegal Parking,No,Low,2026-05-26 21:25:55.448946
+INC0267,Mini Truck,Emergency Exit,Hyderabad,Gate Blockage,No,Critical,2026-05-23 10:55:55.448950
+INC0268,Mini Truck,Commercial Complex,Mumbai,Emergency Access Blocked,No,Critical,2026-05-21 21:32:55.448955
+INC0269,Car,Hospital Entrance,Hyderabad,Roadside Congestion,Yes,Critical,2026-05-26 11:55:55.448960
+INC0270,Taxi,Shop Entrance,Delhi,Pedestrian Path Obstructed,No,Low,2026-05-24 22:10:55.448964
+INC0271,Auto Rickshaw,Residential Street,Bangalore,Illegal Parking,Yes,Critical,2026-05-26 16:02:55.448969
+INC0272,Taxi,Hospital Entrance,Chennai,Pedestrian Path Obstructed,No,Critical,2026-05-26 13:01:55.448974
+INC0273,Car,Hospital Entrance,Hyderabad,Illegal Parking,No,Critical,2026-05-21 22:16:55.448978
+INC0274,Van,Pedestrian Sidewalk,Mumbai,Gate Blockage,No,Medium,2026-05-23 12:36:55.448983
+INC0275,Car,Traffic Junction,Mumbai,Roadside Congestion,Yes,Critical,2026-05-22 14:05:55.448988
+INC0276,Two Wheeler,Shop Entrance,Kochi,Commercial Entrance Blocked,No,Medium,2026-05-21 02:13:55.448992
+INC0277,Two Wheeler,School Zone,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-25 03:28:55.448997
+INC0278,Van,Traffic Junction,Delhi,Illegal Parking,Yes,Critical,2026-05-26 19:17:55.449004
+INC0279,Mini Truck,School Zone,Pune,Pedestrian Path Obstructed,Yes,Critical,2026-05-21 03:32:55.449008
+INC0280,Van,School Zone,Hyderabad,Roadside Congestion,Yes,Critical,2026-05-25 15:57:55.449014
+INC0281,Mini Truck,Apartment Gate,Hyderabad,Emergency Access Blocked,Yes,Critical,2026-05-23 09:15:55.449018
+INC0282,Auto Rickshaw,Hospital Entrance,Bangalore,Illegal Parking,Yes,Critical,2026-05-21 10:42:55.449023
+INC0283,Auto Rickshaw,Narrow Lane,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-26 11:57:55.449028
+INC0284,Mini Truck,Residential Street,Mumbai,Illegal Parking,Yes,Critical,2026-05-22 17:52:55.449032
+INC0285,Two Wheeler,Pedestrian Sidewalk,Bangalore,Emergency Access Blocked,No,Critical,2026-05-20 20:09:55.449037
+INC0286,Car,Emergency Exit,Mumbai,Illegal Parking,Yes,Critical,2026-05-22 02:11:55.449042
+INC0287,Car,Narrow Lane,Chennai,Emergency Access Blocked,No,Critical,2026-05-22 02:25:55.449046
+INC0288,Auto Rickshaw,Commercial Complex,Pune,Commercial Entrance Blocked,No,Medium,2026-05-24 00:12:55.449051
+INC0289,Auto Rickshaw,Apartment Gate,Hyderabad,Pedestrian Path Obstructed,Yes,Critical,2026-05-26 02:51:55.449055
+INC0290,Van,Residential Street,Pune,Commercial Entrance Blocked,Yes,Critical,2026-05-24 19:26:55.449060
+INC0291,Mini Truck,Shop Entrance,Chennai,Illegal Parking,No,Low,2026-05-26 04:23:55.449067
+INC0292,Auto Rickshaw,Residential Street,Hyderabad,Emergency Access Blocked,No,Critical,2026-05-25 20:26:55.449072
+INC0293,Taxi,School Zone,Pune,Pedestrian Path Obstructed,Yes,Critical,2026-05-21 02:19:55.449077
+INC0294,Taxi,Pedestrian Sidewalk,Kochi,Roadside Congestion,No,Low,2026-05-20 19:13:55.449082
+INC0295,Van,Emergency Exit,Chennai,Roadside Congestion,Yes,Critical,2026-05-26 11:22:55.449086
+INC0296,Taxi,Traffic Junction,Bangalore,Commercial Entrance Blocked,No,Medium,2026-05-26 08:01:55.449091
+INC0297,Auto Rickshaw,Narrow Lane,Mumbai,Pedestrian Path Obstructed,No,Low,2026-05-25 22:17:55.449096
+INC0298,Two Wheeler,School Zone,Chennai,Commercial Entrance Blocked,Yes,Critical,2026-05-25 05:30:55.449101
+INC0299,Van,Shop Entrance,Chennai,Commercial Entrance Blocked,No,Medium,2026-05-26 19:08:55.449106
+INC0300,Taxi,Emergency Exit,Bangalore,Illegal Parking,Yes,Critical,2026-05-26 08:32:55.449110
+INC0301,Car,Commercial Complex,Delhi,Gate Blockage,No,Medium,2026-05-27 12:25:55.449115
+INC0302,Car,School Zone,Hyderabad,Pedestrian Path Obstructed,Yes,Critical,2026-05-21 13:51:55.449120
+INC0303,Auto Rickshaw,Shop Entrance,Hyderabad,Emergency Access Blocked,No,Critical,2026-05-24 11:16:55.449125
+INC0304,Taxi,Pedestrian Sidewalk,Chennai,Pedestrian Path Obstructed,No,Low,2026-05-22 20:05:55.449129
+INC0305,Two Wheeler,Pedestrian Sidewalk,Kochi,Commercial Entrance Blocked,Yes,Critical,2026-05-26 06:11:55.449134
+INC0306,Taxi,Hospital Entrance,Delhi,Pedestrian Path Obstructed,No,Critical,2026-05-22 20:12:55.449138
+INC0307,Auto Rickshaw,Apartment Gate,Delhi,Illegal Parking,Yes,Critical,2026-05-24 18:24:55.449143
+INC0308,Van,Pedestrian Sidewalk,Chennai,Emergency Access Blocked,Yes,Critical,2026-05-23 20:50:55.449148
+INC0309,Car,Traffic Junction,Bangalore,Commercial Entrance Blocked,No,Medium,2026-05-24 09:00:55.449155
+INC0310,Auto Rickshaw,Residential Street,Hyderabad,Illegal Parking,No,Low,2026-05-23 11:10:55.449165
+INC0311,Car,Residential Street,Chennai,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 14:43:55.449200
+INC0312,Mini Truck,Apartment Gate,Kochi,Emergency Access Blocked,Yes,Critical,2026-05-26 08:57:55.449210
+INC0313,Two Wheeler,School Zone,Delhi,Pedestrian Path Obstructed,Yes,Critical,2026-05-27 07:48:55.449223
+INC0314,Car,Hospital Entrance,Delhi,Illegal Parking,Yes,Critical,2026-05-26 01:11:55.449229
+INC0315,Mini Truck,Residential Street,Delhi,Emergency Access Blocked,Yes,Critical,2026-05-25 09:34:55.449233
+INC0316,Auto Rickshaw,Commercial Complex,Kochi,Commercial Entrance Blocked,Yes,Critical,2026-05-25 23:22:55.449238
+INC0317,Car,Narrow Lane,Bangalore,Roadside Congestion,No,Low,2026-05-25 12:50:55.449243
+INC0318,Mini Truck,School Zone,Kochi,Gate Blockage,Yes,Critical,2026-05-21 08:25:55.449247
+INC0319,Taxi,Residential Street,Chennai,Pedestrian Path Obstructed,No,Low,2026-05-22 05:55:55.449252
+INC0320,Auto Rickshaw,Shop Entrance,Bangalore,Pedestrian Path Obstructed,No,Low,2026-05-21 13:42:55.449257
+INC0321,Two Wheeler,Residential Street,Mumbai,Gate Blockage,No,Medium,2026-05-26 07:15:55.449261
+INC0322,Two Wheeler,Traffic Junction,Bangalore,Gate Blockage,No,Medium,2026-05-21 18:28:55.449266
+INC0323,Two Wheeler,School Zone,Chennai,Pedestrian Path Obstructed,Yes,Critical,2026-05-24 01:00:55.449271
+INC0324,Auto Rickshaw,Emergency Exit,Delhi,Gate Blockage,No,Critical,2026-05-23 21:18:55.449276
+INC0325,Car,School Zone,Delhi,Pedestrian Path Obstructed,No,Low,2026-05-25 17:51:55.449280
+INC0326,Taxi,Hospital Entrance,Bangalore,Roadside Congestion,Yes,Critical,2026-05-25 22:11:55.449285
+INC0327,Mini Truck,Emergency Exit,Pune,Commercial Entrance Blocked,No,Critical,2026-05-22 07:27:55.449290
+INC0328,Mini Truck,Narrow Lane,Delhi,Gate Blockage,Yes,Critical,2026-05-25 12:48:55.449295
+INC0329,Mini Truck,School Zone,Bangalore,Roadside Congestion,No,Low,2026-05-20 16:48:55.449299
+INC0330,Van,Traffic Junction,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-20 22:19:55.449304
+INC0331,Mini Truck,Narrow Lane,Mumbai,Gate Blockage,No,Medium,2026-05-22 09:22:55.449309
+INC0332,Two Wheeler,Apartment Gate,Chennai,Roadside Congestion,Yes,Critical,2026-05-25 21:58:55.449313
+INC0333,Car,Hospital Entrance,Mumbai,Roadside Congestion,Yes,Critical,2026-05-23 10:04:55.449318
+INC0334,Taxi,Narrow Lane,Chennai,Pedestrian Path Obstructed,No,Low,2026-05-22 12:43:55.449322
+INC0335,Mini Truck,Residential Street,Hyderabad,Pedestrian Path Obstructed,No,Low,2026-05-21 06:50:55.449327
+INC0336,Van,Apartment Gate,Pune,Emergency Access Blocked,Yes,Critical,2026-05-25 04:31:55.449331
+INC0337,Auto Rickshaw,Apartment Gate,Bangalore,Pedestrian Path Obstructed,No,Low,2026-05-25 08:35:55.449336
+INC0338,Mini Truck,Hospital Entrance,Delhi,Pedestrian Path Obstructed,No,Critical,2026-05-25 11:31:55.449341
+INC0339,Auto Rickshaw,Residential Street,Hyderabad,Roadside Congestion,No,Low,2026-05-21 13:53:55.449345
+INC0340,Two Wheeler,Traffic Junction,Bangalore,Emergency Access Blocked,No,Critical,2026-05-24 15:52:55.449350
+INC0341,Two Wheeler,Pedestrian Sidewalk,Bangalore,Pedestrian Path Obstructed,Yes,Critical,2026-05-21 08:14:55.449355
+INC0342,Two Wheeler,Emergency Exit,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-27 00:48:55.449362
+INC0343,Car,Narrow Lane,Mumbai,Emergency Access Blocked,Yes,Critical,2026-05-24 19:48:55.449367
+INC0344,Van,Emergency Exit,Kochi,Roadside Congestion,No,Critical,2026-05-26 12:13:55.449372
+INC0345,Van,Emergency Exit,Mumbai,Roadside Congestion,Yes,Critical,2026-05-24 00:13:55.449376
+INC0346,Mini Truck,Hospital Entrance,Chennai,Gate Blockage,Yes,Critical,2026-05-22 16:15:55.449381
+INC0347,Two Wheeler,Traffic Junction,Kochi,Illegal Parking,Yes,Critical,2026-05-27 08:21:55.449386
+INC0348,Two Wheeler,Emergency Exit,Delhi,Illegal Parking,Yes,Critical,2026-05-26 20:54:55.449390
+INC0349,Auto Rickshaw,Hospital Entrance,Bangalore,Roadside Congestion,No,Critical,2026-05-21 16:25:55.449395
+INC0350,Van,Commercial Complex,Hyderabad,Pedestrian Path Obstructed,Yes,Critical,2026-05-26 09:33:55.449400
+INC0351,Mini Truck,Residential Street,Hyderabad,Pedestrian Path Obstructed,No,Low,2026-05-23 03:54:55.449407
+INC0352,Two Wheeler,Hospital Entrance,Delhi,Emergency Access Blocked,Yes,Critical,2026-05-22 11:39:55.449412
+INC0353,Two Wheeler,Apartment Gate,Kochi,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 18:43:55.449417
+INC0354,Two Wheeler,Residential Street,Bangalore,Emergency Access Blocked,Yes,Critical,2026-05-21 13:58:55.449421
+INC0355,Car,School Zone,Pune,Pedestrian Path Obstructed,Yes,Critical,2026-05-21 06:26:55.449426
+INC0356,Van,Hospital Entrance,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-25 07:33:55.449430
+INC0357,Taxi,Shop Entrance,Bangalore,Gate Blockage,No,Medium,2026-05-27 08:18:55.449435
+INC0358,Auto Rickshaw,Emergency Exit,Bangalore,Commercial Entrance Blocked,No,Critical,2026-05-21 10:28:55.449440
+INC0359,Two Wheeler,School Zone,Pune,Gate Blockage,Yes,Critical,2026-05-21 23:45:55.449444
+INC0360,Two Wheeler,Traffic Junction,Chennai,Roadside Congestion,No,Low,2026-05-26 03:29:55.449449
+INC0361,Taxi,Residential Street,Chennai,Roadside Congestion,Yes,Critical,2026-05-24 07:59:55.449453
+INC0362,Car,Hospital Entrance,Pune,Commercial Entrance Blocked,No,Critical,2026-05-21 18:26:55.449458
+INC0363,Van,Emergency Exit,Delhi,Pedestrian Path Obstructed,Yes,Critical,2026-05-27 12:49:55.449462
+INC0364,Two Wheeler,Commercial Complex,Pune,Emergency Access Blocked,No,Critical,2026-05-24 08:44:55.449467
+INC0365,Taxi,Narrow Lane,Mumbai,Roadside Congestion,No,Low,2026-05-23 21:06:55.449472
+INC0366,Two Wheeler,Narrow Lane,Bangalore,Illegal Parking,Yes,Critical,2026-05-27 02:05:55.449476
+INC0367,Van,Narrow Lane,Bangalore,Roadside Congestion,Yes,Critical,2026-05-24 15:54:55.449481
+INC0368,Van,School Zone,Chennai,Roadside Congestion,Yes,Critical,2026-05-26 21:49:55.449486
+INC0369,Two Wheeler,School Zone,Chennai,Gate Blockage,No,Medium,2026-05-21 13:08:55.449491
+INC0370,Two Wheeler,Residential Street,Pune,Pedestrian Path Obstructed,No,Low,2026-05-25 11:35:55.449495
+INC0371,Taxi,Residential Street,Kochi,Illegal Parking,No,Low,2026-05-21 16:24:55.449500
+INC0372,Taxi,Emergency Exit,Chennai,Commercial Entrance Blocked,No,Critical,2026-05-22 12:37:55.449505
+INC0373,Taxi,Pedestrian Sidewalk,Delhi,Illegal Parking,No,Low,2026-05-26 20:43:55.449511
+INC0374,Two Wheeler,Pedestrian Sidewalk,Hyderabad,Illegal Parking,Yes,Critical,2026-05-22 03:10:55.449516
+INC0375,Two Wheeler,Residential Street,Bangalore,Gate Blockage,Yes,Critical,2026-05-25 11:45:55.449521
+INC0376,Auto Rickshaw,Shop Entrance,Chennai,Illegal Parking,Yes,Critical,2026-05-23 02:15:55.449526
+INC0377,Taxi,Traffic Junction,Hyderabad,Emergency Access Blocked,Yes,Critical,2026-05-27 01:33:55.449530
+INC0378,Two Wheeler,Hospital Entrance,Hyderabad,Pedestrian Path Obstructed,Yes,Critical,2026-05-24 09:48:55.449535
+INC0379,Two Wheeler,Shop Entrance,Mumbai,Commercial Entrance Blocked,No,Medium,2026-05-22 10:32:55.449539
+INC0380,Car,School Zone,Hyderabad,Roadside Congestion,No,Low,2026-05-26 17:33:55.449544
+INC0381,Van,School Zone,Bangalore,Pedestrian Path Obstructed,No,Low,2026-05-21 21:12:55.449549
+INC0382,Van,Commercial Complex,Mumbai,Emergency Access Blocked,Yes,Critical,2026-05-20 19:43:55.449554
+INC0383,Mini Truck,Residential Street,Kochi,Gate Blockage,No,Medium,2026-05-23 18:39:55.449559
+INC0384,Mini Truck,School Zone,Kochi,Illegal Parking,No,Low,2026-05-23 06:07:55.449569
+INC0385,Auto Rickshaw,Commercial Complex,Mumbai,Roadside Congestion,No,Low,2026-05-25 10:56:55.449574
+INC0386,Taxi,Narrow Lane,Hyderabad,Roadside Congestion,No,Low,2026-05-26 08:08:55.449578
+INC0387,Two Wheeler,School Zone,Mumbai,Roadside Congestion,Yes,Critical,2026-05-24 20:32:55.449583
+INC0388,Van,Narrow Lane,Mumbai,Emergency Access Blocked,No,Critical,2026-05-25 21:31:55.449588
+INC0389,Van,Residential Street,Hyderabad,Roadside Congestion,No,Low,2026-05-20 21:04:55.449592
+INC0390,Taxi,School Zone,Pune,Emergency Access Blocked,Yes,Critical,2026-05-26 22:35:55.449597
+INC0391,Mini Truck,Apartment Gate,Bangalore,Commercial Entrance Blocked,No,Medium,2026-05-24 07:04:55.449601
+INC0392,Van,Pedestrian Sidewalk,Pune,Gate Blockage,Yes,Critical,2026-05-26 13:37:55.449606
+INC0393,Two Wheeler,Pedestrian Sidewalk,Hyderabad,Pedestrian Path Obstructed,Yes,Critical,2026-05-22 19:38:55.449611
+INC0394,Mini Truck,Traffic Junction,Delhi,Illegal Parking,Yes,Critical,2026-05-24 15:21:55.449617
+INC0395,Van,Apartment Gate,Kochi,Gate Blockage,Yes,Critical,2026-05-21 20:40:55.449622
+INC0396,Auto Rickshaw,Commercial Complex,Kochi,Pedestrian Path Obstructed,Yes,Critical,2026-05-21 02:33:55.449626
+INC0397,Car,Pedestrian Sidewalk,Bangalore,Commercial Entrance Blocked,No,Medium,2026-05-25 17:45:55.449631
+INC0398,Car,School Zone,Pune,Illegal Parking,Yes,Critical,2026-05-21 18:55:55.449636
+INC0399,Car,Shop Entrance,Chennai,Illegal Parking,Yes,Critical,2026-05-25 05:04:55.449641
+INC0400,Mini Truck,Emergency Exit,Pune,Pedestrian Path Obstructed,Yes,Critical,2026-05-21 02:05:55.449645
+INC0401,Auto Rickshaw,Residential Street,Mumbai,Commercial Entrance Blocked,Yes,Critical,2026-05-25 13:10:55.449650
+INC0402,Two Wheeler,Shop Entrance,Pune,Illegal Parking,No,Low,2026-05-27 01:25:55.449657
+INC0403,Mini Truck,Emergency Exit,Bangalore,Gate Blockage,Yes,Critical,2026-05-22 06:14:55.449662
+INC0404,Taxi,Hospital Entrance,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-21 01:57:55.449667
+INC0405,Auto Rickshaw,School Zone,Chennai,Illegal Parking,No,Low,2026-05-23 17:17:55.449673
+INC0406,Two Wheeler,Hospital Entrance,Mumbai,Illegal Parking,Yes,Critical,2026-05-22 14:02:55.449678
+INC0407,Van,Apartment Gate,Chennai,Emergency Access Blocked,Yes,Critical,2026-05-24 02:51:55.449683
+INC0408,Taxi,Traffic Junction,Delhi,Emergency Access Blocked,Yes,Critical,2026-05-21 06:56:55.449687
+INC0409,Auto Rickshaw,Narrow Lane,Hyderabad,Pedestrian Path Obstructed,No,Low,2026-05-23 05:47:55.449692
+INC0410,Two Wheeler,School Zone,Delhi,Pedestrian Path Obstructed,No,Low,2026-05-26 14:10:55.449696
+INC0411,Mini Truck,Commercial Complex,Pune,Gate Blockage,No,Medium,2026-05-26 01:00:55.449701
+INC0412,Auto Rickshaw,Traffic Junction,Hyderabad,Roadside Congestion,No,Low,2026-05-24 01:43:55.449706
+INC0413,Two Wheeler,Commercial Complex,Hyderabad,Pedestrian Path Obstructed,No,Low,2026-05-24 19:08:55.449711
+INC0414,Mini Truck,Commercial Complex,Kochi,Emergency Access Blocked,No,Critical,2026-05-25 22:13:55.449715
+INC0415,Car,Apartment Gate,Delhi,Pedestrian Path Obstructed,Yes,Critical,2026-05-25 02:25:55.449720
+INC0416,Car,Shop Entrance,Hyderabad,Roadside Congestion,Yes,Critical,2026-05-23 21:02:55.449725
+INC0417,Two Wheeler,Narrow Lane,Chennai,Roadside Congestion,No,Low,2026-05-22 01:41:55.449729
+INC0418,Van,Residential Street,Kochi,Gate Blockage,Yes,Critical,2026-05-23 22:44:55.449734
+INC0419,Taxi,Emergency Exit,Delhi,Commercial Entrance Blocked,Yes,Critical,2026-05-25 04:30:55.449739
+INC0420,Van,Pedestrian Sidewalk,Delhi,Roadside Congestion,No,Low,2026-05-23 02:55:55.449744
+INC0421,Two Wheeler,Apartment Gate,Chennai,Roadside Congestion,Yes,Critical,2026-05-26 08:13:55.449748
+INC0422,Two Wheeler,Commercial Complex,Chennai,Roadside Congestion,No,Low,2026-05-21 09:47:55.449753
+INC0423,Mini Truck,Emergency Exit,Pune,Gate Blockage,Yes,Critical,2026-05-24 07:35:55.449758
+INC0424,Mini Truck,Narrow Lane,Pune,Gate Blockage,Yes,Critical,2026-05-21 17:14:55.449763
+INC0425,Car,Traffic Junction,Hyderabad,Pedestrian Path Obstructed,Yes,Critical,2026-05-27 05:01:55.449768
+INC0426,Taxi,Commercial Complex,Kochi,Illegal Parking,No,Low,2026-05-24 01:58:55.449773
+INC0427,Mini Truck,Traffic Junction,Kochi,Gate Blockage,Yes,Critical,2026-05-26 02:43:55.449777
+INC0428,Taxi,Apartment Gate,Mumbai,Pedestrian Path Obstructed,No,Low,2026-05-24 22:33:55.449782
+INC0429,Van,Residential Street,Delhi,Emergency Access Blocked,Yes,Critical,2026-05-25 17:53:55.449787
+INC0430,Two Wheeler,Hospital Entrance,Bangalore,Roadside Congestion,Yes,Critical,2026-05-23 13:37:55.449792
+INC0431,Van,School Zone,Chennai,Roadside Congestion,Yes,Critical,2026-05-21 02:57:55.449796
+INC0432,Two Wheeler,Pedestrian Sidewalk,Bangalore,Gate Blockage,Yes,Critical,2026-05-24 09:18:55.449801
+INC0433,Taxi,Traffic Junction,Hyderabad,Illegal Parking,No,Low,2026-05-23 02:27:55.449806
+INC0434,Van,Commercial Complex,Chennai,Commercial Entrance Blocked,Yes,Critical,2026-05-22 00:55:55.449811
+INC0435,Van,Residential Street,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-23 04:50:55.449816
+INC0436,Van,Hospital Entrance,Kochi,Commercial Entrance Blocked,Yes,Critical,2026-05-21 00:36:55.449822
+INC0437,Mini Truck,Residential Street,Kochi,Roadside Congestion,No,Low,2026-05-23 13:52:55.449829
+INC0438,Auto Rickshaw,Residential Street,Delhi,Pedestrian Path Obstructed,Yes,Critical,2026-05-27 09:37:55.449834
+INC0439,Car,Pedestrian Sidewalk,Hyderabad,Roadside Congestion,No,Low,2026-05-25 01:17:55.449838
+INC0440,Car,Shop Entrance,Hyderabad,Illegal Parking,No,Low,2026-05-23 11:10:55.449843
+INC0441,Two Wheeler,Pedestrian Sidewalk,Delhi,Commercial Entrance Blocked,Yes,Critical,2026-05-24 11:00:55.449848
+INC0442,Van,Narrow Lane,Delhi,Emergency Access Blocked,No,Critical,2026-05-22 07:35:55.449853
+INC0443,Car,School Zone,Hyderabad,Roadside Congestion,No,Low,2026-05-27 00:36:55.449858
+INC0444,Van,Hospital Entrance,Kochi,Gate Blockage,No,Critical,2026-05-26 04:13:55.449862
+INC0445,Auto Rickshaw,Commercial Complex,Kochi,Emergency Access Blocked,No,Critical,2026-05-24 15:27:55.449867
+INC0446,Van,Pedestrian Sidewalk,Bangalore,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 11:29:55.449872
+INC0447,Two Wheeler,Commercial Complex,Pune,Pedestrian Path Obstructed,Yes,Critical,2026-05-25 09:50:55.449877
+INC0448,Auto Rickshaw,Residential Street,Chennai,Illegal Parking,Yes,Critical,2026-05-21 13:16:55.449881
+INC0449,Two Wheeler,School Zone,Mumbai,Pedestrian Path Obstructed,Yes,Critical,2026-05-23 14:15:55.449886
+INC0450,Taxi,Traffic Junction,Mumbai,Gate Blockage,Yes,Critical,2026-05-27 08:07:55.449891
+INC0451,Mini Truck,Emergency Exit,Hyderabad,Commercial Entrance Blocked,No,Critical,2026-05-25 01:28:55.449896
+INC0452,Taxi,Traffic Junction,Delhi,Pedestrian Path Obstructed,No,Low,2026-05-27 01:36:55.449900
+INC0453,Auto Rickshaw,Narrow Lane,Delhi,Roadside Congestion,Yes,Critical,2026-05-21 21:02:55.449905
+INC0454,Van,Hospital Entrance,Kochi,Illegal Parking,No,Critical,2026-05-23 07:35:55.449910
+INC0455,Taxi,Commercial Complex,Kochi,Commercial Entrance Blocked,No,Medium,2026-05-20 18:20:55.449914
+INC0456,Mini Truck,Apartment Gate,Hyderabad,Commercial Entrance Blocked,No,Medium,2026-05-23 15:08:55.449919
+INC0457,Van,Narrow Lane,Delhi,Pedestrian Path Obstructed,Yes,Critical,2026-05-22 13:48:55.449924
+INC0458,Car,Residential Street,Mumbai,Commercial Entrance Blocked,Yes,Critical,2026-05-25 00:15:55.449929
+INC0459,Two Wheeler,Traffic Junction,Hyderabad,Illegal Parking,No,Low,2026-05-21 06:28:55.449934
+INC0460,Mini Truck,Apartment Gate,Hyderabad,Commercial Entrance Blocked,Yes,Critical,2026-05-23 00:43:55.449938
+INC0461,Auto Rickshaw,Emergency Exit,Bangalore,Gate Blockage,No,Critical,2026-05-23 01:04:55.449943
+INC0462,Car,Residential Street,Kochi,Illegal Parking,No,Low,2026-05-21 09:40:55.449948
+INC0463,Car,Commercial Complex,Hyderabad,Illegal Parking,No,Low,2026-05-27 10:03:55.449952
+INC0464,Taxi,Pedestrian Sidewalk,Hyderabad,Commercial Entrance Blocked,No,Medium,2026-05-27 10:42:55.449957
+INC0465,Auto Rickshaw,Pedestrian Sidewalk,Bangalore,Gate Blockage,No,Medium,2026-05-26 21:40:55.449962
+INC0466,Car,Narrow Lane,Bangalore,Commercial Entrance Blocked,Yes,Critical,2026-05-24 06:57:55.449967
+INC0467,Car,School Zone,Mumbai,Commercial Entrance Blocked,No,Medium,2026-05-22 19:03:55.449972
+INC0468,Taxi,Commercial Complex,Delhi,Emergency Access Blocked,Yes,Critical,2026-05-22 13:11:55.449977
+INC0469,Auto Rickshaw,Hospital Entrance,Mumbai,Gate Blockage,No,Critical,2026-05-21 16:15:55.449984
+INC0470,Mini Truck,Shop Entrance,Mumbai,Commercial Entrance Blocked,Yes,Critical,2026-05-26 20:04:55.449989
+INC0471,Two Wheeler,School Zone,Pune,Roadside Congestion,Yes,Critical,2026-05-23 09:38:55.449993
+INC0472,Auto Rickshaw,Commercial Complex,Mumbai,Pedestrian Path Obstructed,No,Low,2026-05-22 00:22:55.449998
+INC0473,Auto Rickshaw,Pedestrian Sidewalk,Hyderabad,Gate Blockage,No,Medium,2026-05-27 05:55:55.450003
+INC0474,Taxi,Residential Street,Kochi,Gate Blockage,No,Medium,2026-05-22 19:43:55.450008
+INC0475,Van,Traffic Junction,Kochi,Emergency Access Blocked,No,Critical,2026-05-23 13:56:55.450012
+INC0476,Two Wheeler,Hospital Entrance,Kochi,Roadside Congestion,Yes,Critical,2026-05-24 01:45:55.450017
+INC0477,Mini Truck,Commercial Complex,Chennai,Emergency Access Blocked,Yes,Critical,2026-05-25 06:22:55.450022
+INC0478,Auto Rickshaw,Emergency Exit,Kochi,Pedestrian Path Obstructed,Yes,Critical,2026-05-24 21:41:55.450026
+INC0479,Car,School Zone,Delhi,Gate Blockage,Yes,Critical,2026-05-25 07:08:55.450034
+INC0480,Auto Rickshaw,Commercial Complex,Mumbai,Illegal Parking,No,Low,2026-05-22 05:19:55.450038
+INC0481,Mini Truck,Residential Street,Kochi,Emergency Access Blocked,No,Critical,2026-05-24 07:09:55.450043
+INC0482,Taxi,Pedestrian Sidewalk,Bangalore,Emergency Access Blocked,Yes,Critical,2026-05-24 18:41:55.450048
+INC0483,Auto Rickshaw,Narrow Lane,Bangalore,Commercial Entrance Blocked,No,Medium,2026-05-22 02:00:55.450052
+INC0484,Auto Rickshaw,Pedestrian Sidewalk,Hyderabad,Illegal Parking,Yes,Critical,2026-05-22 10:05:55.450057
+INC0485,Car,Residential Street,Hyderabad,Illegal Parking,No,Low,2026-05-24 22:57:55.450062
+INC0486,Taxi,Apartment Gate,Pune,Gate Blockage,No,Medium,2026-05-23 14:04:55.450069
+INC0487,Van,School Zone,Hyderabad,Emergency Access Blocked,No,Critical,2026-05-22 01:27:55.450074
+INC0488,Two Wheeler,Residential Street,Chennai,Illegal Parking,Yes,Critical,2026-05-22 21:12:55.450078
+INC0489,Two Wheeler,Commercial Complex,Mumbai,Gate Blockage,Yes,Critical,2026-05-23 02:24:55.450084
+INC0490,Mini Truck,Pedestrian Sidewalk,Delhi,Illegal Parking,No,Low,2026-05-23 09:25:55.450089
+INC0491,Auto Rickshaw,Residential Street,Pune,Illegal Parking,No,Low,2026-05-27 05:20:55.450094
+INC0492,Car,Hospital Entrance,Bangalore,Roadside Congestion,No,Critical,2026-05-22 22:53:55.450098
+INC0493,Car,Traffic Junction,Kochi,Roadside Congestion,Yes,Critical,2026-05-21 14:43:55.450103
+INC0494,Taxi,Hospital Entrance,Mumbai,Commercial Entrance Blocked,No,Critical,2026-05-21 01:45:55.450108
+INC0495,Taxi,Apartment Gate,Mumbai,Emergency Access Blocked,Yes,Critical,2026-05-22 04:49:55.450112
+INC0496,Mini Truck,Pedestrian Sidewalk,Mumbai,Illegal Parking,No,Low,2026-05-21 21:53:55.450117
+INC0497,Two Wheeler,Shop Entrance,Bangalore,Gate Blockage,No,Medium,2026-05-23 08:06:55.450122
+INC0498,Car,School Zone,Mumbai,Roadside Congestion,No,Low,2026-05-26 04:41:55.450127
+INC0499,Taxi,Commercial Complex,Pune,Gate Blockage,No,Medium,2026-05-26 07:34:55.450131
+INC0500,Auto Rickshaw,Residential Street,Chennai,Pedestrian Path Obstructed,No,Low,2026-05-22 03:45:55.450136

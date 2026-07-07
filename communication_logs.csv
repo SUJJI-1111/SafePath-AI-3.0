@@ -1,0 +1,501 @@
+Incident_ID,Assigned_QR_ID,Vehicle_Number,Masked_Contact,AI_Priority_Level,Emergency_Escalation,Anonymous_Notification,Communication_Status
+INC0001,QR0005,TN70AB3353,98XXXX5127,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0002,QR0097,TN23AB1118,98XXXX3517,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0003,QR0259,TN60AB8385,98XXXX4852,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0004,QR0152,TN79AB7164,98XXXX3354,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0005,QR0270,TN98AB2354,98XXXX1834,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0006,QR0248,TN69AB1977,98XXXX6140,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0007,QR0219,TN91AB8396,98XXXX3638,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0008,QR0161,TN71AB5769,98XXXX1003,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0009,QR0071,TN62AB6588,98XXXX6723,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0010,QR0259,TN60AB8385,98XXXX4852,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0011,QR0208,TN77AB9338,98XXXX5329,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0012,QR0167,TN37AB4544,98XXXX2633,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0013,QR0211,TN83AB8622,98XXXX7151,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0014,QR0229,TN81AB5047,98XXXX9371,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0015,QR0052,TN95AB8595,98XXXX1804,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0016,QR0140,TN32AB9403,98XXXX5822,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0017,QR0129,TN40AB6686,98XXXX2087,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0018,QR0181,TN45AB5940,98XXXX7343,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0019,QR0212,TN61AB2660,98XXXX2707,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0020,QR0253,TN42AB7825,98XXXX8629,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0021,QR0087,TN47AB5101,98XXXX3226,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0022,QR0291,TN33AB1200,98XXXX2837,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0023,QR0238,TN44AB7014,98XXXX2540,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0024,QR0012,TN10AB7842,98XXXX8679,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0025,QR0252,TN82AB8357,98XXXX4448,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0026,QR0190,TN94AB4134,98XXXX4402,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0027,QR0205,TN90AB1427,98XXXX2962,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0028,QR0101,TN54AB8368,98XXXX4128,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0029,QR0263,TN75AB1039,98XXXX8699,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Commercial Complex. Please respond urgently.,Notification Sent
+INC0030,QR0068,TN79AB6179,98XXXX4206,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0031,QR0072,TN90AB6118,98XXXX1210,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0032,QR0245,TN71AB3793,98XXXX8517,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0033,QR0191,TN62AB3533,98XXXX2680,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0034,QR0003,TN59AB4791,98XXXX2815,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0035,QR0212,TN61AB2660,98XXXX2707,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0036,QR0214,TN86AB4368,98XXXX3577,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0037,QR0035,TN56AB8752,98XXXX4643,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0038,QR0248,TN69AB1977,98XXXX6140,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Commercial Complex. Please respond urgently.,Notification Sent
+INC0039,QR0009,TN32AB2204,98XXXX8282,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0040,QR0230,TN74AB8526,98XXXX6870,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0041,QR0284,TN72AB3160,98XXXX2345,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0042,QR0111,TN92AB6114,98XXXX2834,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0043,QR0020,TN55AB5357,98XXXX4086,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0044,QR0022,TN72AB7050,98XXXX5575,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0045,QR0265,TN88AB8440,98XXXX3413,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0046,QR0271,TN43AB7000,98XXXX5731,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0047,QR0101,TN54AB8368,98XXXX4128,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0048,QR0004,TN31AB9962,98XXXX5910,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0049,QR0235,TN53AB2786,98XXXX1993,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0050,QR0113,TN32AB5665,98XXXX1715,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Traffic Junction.,Notification Sent
+INC0051,QR0286,TN91AB7629,98XXXX3694,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0052,QR0009,TN32AB2204,98XXXX8282,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Apartment Gate.,Notification Sent
+INC0053,QR0222,TN36AB5727,98XXXX4919,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0054,QR0131,TN56AB7762,98XXXX4572,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0055,QR0159,TN80AB5194,98XXXX9649,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Commercial Complex.,Notification Sent
+INC0056,QR0082,TN40AB7393,98XXXX6333,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0057,QR0215,TN45AB5589,98XXXX8774,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0058,QR0298,TN37AB1212,98XXXX9115,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0059,QR0156,TN21AB4555,98XXXX5480,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0060,QR0156,TN21AB4555,98XXXX5480,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Apartment Gate.,Notification Sent
+INC0061,QR0188,TN64AB3375,98XXXX6117,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0062,QR0038,TN36AB1428,98XXXX7919,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0063,QR0206,TN50AB7725,98XXXX3129,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0064,QR0014,TN59AB5865,98XXXX6441,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0065,QR0073,TN21AB5640,98XXXX1245,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0066,QR0146,TN39AB8432,98XXXX2866,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0067,QR0105,TN85AB2594,98XXXX1897,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0068,QR0064,TN73AB6950,98XXXX2953,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0069,QR0107,TN73AB2887,98XXXX8069,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0070,QR0169,TN91AB2764,98XXXX5000,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0071,QR0036,TN83AB7532,98XXXX3853,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0072,QR0081,TN50AB8042,98XXXX4599,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0073,QR0116,TN83AB6894,98XXXX7308,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0074,QR0216,TN77AB3090,98XXXX7614,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0075,QR0290,TN56AB3477,98XXXX8551,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0076,QR0226,TN32AB3402,98XXXX8818,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0077,QR0005,TN70AB3353,98XXXX5127,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0078,QR0292,TN84AB5772,98XXXX7698,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0079,QR0047,TN25AB1204,98XXXX1175,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0080,QR0002,TN15AB8007,98XXXX6904,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0081,QR0034,TN87AB9357,98XXXX2834,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0082,QR0172,TN36AB9109,98XXXX1731,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0083,QR0001,TN92AB6556,98XXXX3539,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0084,QR0015,TN97AB1989,98XXXX7874,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0085,QR0291,TN33AB1200,98XXXX2837,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0086,QR0254,TN65AB7553,98XXXX8735,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0087,QR0297,TN59AB7073,98XXXX8124,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0088,QR0179,TN13AB6257,98XXXX9304,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0089,QR0050,TN76AB9772,98XXXX6762,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0090,QR0283,TN37AB4042,98XXXX2837,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0091,QR0108,TN75AB2096,98XXXX4266,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0092,QR0050,TN76AB9772,98XXXX6762,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0093,QR0138,TN67AB7787,98XXXX5537,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0094,QR0178,TN56AB8107,98XXXX8933,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0095,QR0211,TN83AB8622,98XXXX7151,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0096,QR0051,TN35AB1983,98XXXX1439,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0097,QR0110,TN22AB2298,98XXXX8173,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0098,QR0109,TN53AB5426,98XXXX3720,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0099,QR0273,TN95AB8308,98XXXX5062,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0100,QR0021,TN40AB8389,98XXXX4246,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0101,QR0002,TN15AB8007,98XXXX6904,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0102,QR0097,TN23AB1118,98XXXX3517,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0103,QR0276,TN38AB4703,98XXXX5604,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0104,QR0045,TN91AB5689,98XXXX1280,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0105,QR0221,TN58AB1186,98XXXX9459,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Apartment Gate.,Notification Sent
+INC0106,QR0134,TN31AB8777,98XXXX8234,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0107,QR0185,TN42AB2135,98XXXX9291,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0108,QR0231,TN17AB6009,98XXXX8527,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0109,QR0026,TN11AB9593,98XXXX2079,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0110,QR0181,TN45AB5940,98XXXX7343,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0111,QR0114,TN54AB2076,98XXXX9231,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0112,QR0111,TN92AB6114,98XXXX2834,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0113,QR0186,TN42AB7608,98XXXX6962,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0114,QR0182,TN89AB1511,98XXXX2358,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0115,QR0042,TN92AB9861,98XXXX2195,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0116,QR0172,TN36AB9109,98XXXX1731,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0117,QR0124,TN45AB7525,98XXXX2304,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0118,QR0223,TN66AB4292,98XXXX6901,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0119,QR0063,TN44AB3526,98XXXX5665,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0120,QR0122,TN46AB3136,98XXXX6349,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0121,QR0236,TN94AB4443,98XXXX4858,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0122,QR0262,TN26AB3726,98XXXX5130,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0123,QR0300,TN16AB5368,98XXXX9856,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0124,QR0132,TN73AB3394,98XXXX2479,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0125,QR0065,TN71AB1614,98XXXX7371,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0126,QR0015,TN97AB1989,98XXXX7874,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0127,QR0241,TN54AB8949,98XXXX8383,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0128,QR0271,TN43AB7000,98XXXX5731,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0129,QR0168,TN94AB8095,98XXXX3134,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0130,QR0086,TN55AB5814,98XXXX5024,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0131,QR0085,TN34AB9738,98XXXX9339,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0132,QR0044,TN52AB6820,98XXXX9987,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0133,QR0053,TN55AB4568,98XXXX6578,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0134,QR0199,TN95AB4499,98XXXX3982,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0135,QR0042,TN92AB9861,98XXXX2195,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0136,QR0201,TN32AB7974,98XXXX6340,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0137,QR0051,TN35AB1983,98XXXX1439,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Commercial Complex. Please respond urgently.,Notification Sent
+INC0138,QR0036,TN83AB7532,98XXXX3853,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0139,QR0074,TN80AB8234,98XXXX1015,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0140,QR0203,TN83AB7067,98XXXX4227,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Commercial Complex.,Notification Sent
+INC0141,QR0167,TN37AB4544,98XXXX2633,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0142,QR0103,TN18AB1408,98XXXX7603,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0143,QR0271,TN43AB7000,98XXXX5731,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0144,QR0082,TN40AB7393,98XXXX6333,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0145,QR0115,TN85AB7931,98XXXX4107,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Commercial Complex. Please respond urgently.,Notification Sent
+INC0146,QR0020,TN55AB5357,98XXXX4086,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0147,QR0258,TN23AB7236,98XXXX2334,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0148,QR0171,TN27AB5449,98XXXX9966,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0149,QR0280,TN41AB6448,98XXXX3198,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Commercial Complex. Please respond urgently.,Notification Sent
+INC0150,QR0017,TN32AB7683,98XXXX6854,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0151,QR0001,TN92AB6556,98XXXX3539,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0152,QR0261,TN69AB2835,98XXXX1712,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0153,QR0276,TN38AB4703,98XXXX5604,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0154,QR0275,TN42AB1860,98XXXX1799,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0155,QR0163,TN73AB6354,98XXXX9946,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0156,QR0188,TN64AB3375,98XXXX6117,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0157,QR0217,TN62AB7466,98XXXX4937,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0158,QR0227,TN80AB6667,98XXXX9337,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0159,QR0014,TN59AB5865,98XXXX6441,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0160,QR0039,TN42AB7633,98XXXX9874,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0161,QR0067,TN70AB3121,98XXXX1086,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0162,QR0050,TN76AB9772,98XXXX6762,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Apartment Gate.,Notification Sent
+INC0163,QR0081,TN50AB8042,98XXXX4599,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0164,QR0072,TN90AB6118,98XXXX1210,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0165,QR0114,TN54AB2076,98XXXX9231,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0166,QR0210,TN76AB9411,98XXXX6039,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0167,QR0035,TN56AB8752,98XXXX4643,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0168,QR0077,TN25AB2103,98XXXX6954,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0169,QR0298,TN37AB1212,98XXXX9115,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0170,QR0269,TN36AB9430,98XXXX7862,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0171,QR0120,TN98AB3188,98XXXX9872,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0172,QR0298,TN37AB1212,98XXXX9115,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0173,QR0131,TN56AB7762,98XXXX4572,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0174,QR0180,TN42AB9108,98XXXX7112,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0175,QR0214,TN86AB4368,98XXXX3577,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0176,QR0170,TN27AB8200,98XXXX8146,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0177,QR0148,TN37AB4137,98XXXX9227,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0178,QR0278,TN44AB3784,98XXXX3648,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0179,QR0066,TN15AB9605,98XXXX7608,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0180,QR0228,TN57AB4264,98XXXX8113,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0181,QR0119,TN83AB5275,98XXXX6055,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0182,QR0286,TN91AB7629,98XXXX3694,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Emergency Exit.,Notification Sent
+INC0183,QR0026,TN11AB9593,98XXXX2079,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Commercial Complex. Please respond urgently.,Notification Sent
+INC0184,QR0058,TN92AB2778,98XXXX9883,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0185,QR0016,TN44AB1129,98XXXX4949,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0186,QR0296,TN73AB6061,98XXXX5318,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0187,QR0209,TN67AB6530,98XXXX2320,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0188,QR0142,TN78AB2590,98XXXX4347,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0189,QR0005,TN70AB3353,98XXXX5127,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0190,QR0268,TN33AB2434,98XXXX1775,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0191,QR0139,TN77AB1022,98XXXX2828,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0192,QR0112,TN63AB7538,98XXXX9137,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Commercial Complex.,Notification Sent
+INC0193,QR0038,TN36AB1428,98XXXX7919,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0194,QR0164,TN17AB5617,98XXXX9960,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0195,QR0269,TN36AB9430,98XXXX7862,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0196,QR0234,TN84AB6841,98XXXX1689,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0197,QR0207,TN18AB5718,98XXXX4479,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0198,QR0130,TN57AB3242,98XXXX8334,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0199,QR0137,TN21AB3137,98XXXX2760,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0200,QR0066,TN15AB9605,98XXXX7608,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0201,QR0095,TN29AB8412,98XXXX7735,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Traffic Junction.,Notification Sent
+INC0202,QR0006,TN85AB2209,98XXXX7403,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0203,QR0137,TN21AB3137,98XXXX2760,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0204,QR0050,TN76AB9772,98XXXX6762,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0205,QR0233,TN60AB6105,98XXXX4464,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0206,QR0246,TN93AB5692,98XXXX3265,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0207,QR0065,TN71AB1614,98XXXX7371,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0208,QR0228,TN57AB4264,98XXXX8113,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0209,QR0050,TN76AB9772,98XXXX6762,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0210,QR0075,TN34AB4169,98XXXX5349,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0211,QR0222,TN36AB5727,98XXXX4919,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0212,QR0063,TN44AB3526,98XXXX5665,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0213,QR0168,TN94AB8095,98XXXX3134,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0214,QR0095,TN29AB8412,98XXXX7735,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0215,QR0101,TN54AB8368,98XXXX4128,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0216,QR0275,TN42AB1860,98XXXX1799,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0217,QR0097,TN23AB1118,98XXXX3517,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0218,QR0300,TN16AB5368,98XXXX9856,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0219,QR0025,TN89AB8292,98XXXX4090,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Apartment Gate.,Notification Sent
+INC0220,QR0281,TN24AB4015,98XXXX7804,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0221,QR0040,TN67AB7552,98XXXX7201,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0222,QR0103,TN18AB1408,98XXXX7603,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0223,QR0175,TN52AB3805,98XXXX7220,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0224,QR0204,TN10AB5306,98XXXX1207,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0225,QR0058,TN92AB2778,98XXXX9883,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Emergency Exit.,Notification Sent
+INC0226,QR0075,TN34AB4169,98XXXX5349,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0227,QR0195,TN36AB3779,98XXXX8960,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0228,QR0182,TN89AB1511,98XXXX2358,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0229,QR0270,TN98AB2354,98XXXX1834,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0230,QR0194,TN26AB4758,98XXXX5346,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0231,QR0027,TN26AB7772,98XXXX4866,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0232,QR0232,TN10AB9266,98XXXX5880,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0233,QR0124,TN45AB7525,98XXXX2304,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0234,QR0022,TN72AB7050,98XXXX5575,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0235,QR0206,TN50AB7725,98XXXX3129,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0236,QR0158,TN98AB4282,98XXXX9359,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0237,QR0189,TN22AB7877,98XXXX9549,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0238,QR0026,TN11AB9593,98XXXX2079,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Apartment Gate.,Notification Sent
+INC0239,QR0247,TN22AB8092,98XXXX7726,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0240,QR0244,TN84AB5249,98XXXX9275,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0241,QR0020,TN55AB5357,98XXXX4086,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0242,QR0194,TN26AB4758,98XXXX5346,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0243,QR0002,TN15AB8007,98XXXX6904,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0244,QR0004,TN31AB9962,98XXXX5910,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0245,QR0189,TN22AB7877,98XXXX9549,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0246,QR0141,TN62AB5071,98XXXX3870,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0247,QR0145,TN51AB6070,98XXXX3998,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0248,QR0225,TN10AB8173,98XXXX9105,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0249,QR0269,TN36AB9430,98XXXX7862,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0250,QR0237,TN35AB5148,98XXXX6210,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0251,QR0279,TN19AB3196,98XXXX6226,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Traffic Junction.,Notification Sent
+INC0252,QR0197,TN60AB1972,98XXXX2236,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0253,QR0067,TN70AB3121,98XXXX1086,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0254,QR0250,TN94AB5809,98XXXX7088,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0255,QR0041,TN60AB2782,98XXXX6165,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0256,QR0190,TN94AB4134,98XXXX4402,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0257,QR0232,TN10AB9266,98XXXX5880,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0258,QR0084,TN83AB1105,98XXXX4543,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0259,QR0184,TN49AB5057,98XXXX3065,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0260,QR0275,TN42AB1860,98XXXX1799,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0261,QR0146,TN39AB8432,98XXXX2866,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0262,QR0076,TN37AB6560,98XXXX4107,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0263,QR0018,TN54AB1346,98XXXX6937,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0264,QR0206,TN50AB7725,98XXXX3129,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0265,QR0237,TN35AB5148,98XXXX6210,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0266,QR0207,TN18AB5718,98XXXX4479,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Commercial Complex.,Notification Sent
+INC0267,QR0224,TN15AB3995,98XXXX4919,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0268,QR0105,TN85AB2594,98XXXX1897,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0269,QR0071,TN62AB6588,98XXXX6723,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0270,QR0258,TN23AB7236,98XXXX2334,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0271,QR0252,TN82AB8357,98XXXX4448,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0272,QR0164,TN17AB5617,98XXXX9960,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0273,QR0013,TN67AB3051,98XXXX4960,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0274,QR0184,TN49AB5057,98XXXX3065,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0275,QR0162,TN49AB6841,98XXXX2894,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0276,QR0024,TN26AB5602,98XXXX1452,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0277,QR0185,TN42AB2135,98XXXX9291,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0278,QR0191,TN62AB3533,98XXXX2680,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0279,QR0242,TN54AB6015,98XXXX3267,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0280,QR0300,TN16AB5368,98XXXX9856,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0281,QR0259,TN60AB8385,98XXXX4852,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0282,QR0211,TN83AB8622,98XXXX7151,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0283,QR0202,TN39AB9108,98XXXX7917,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0284,QR0216,TN77AB3090,98XXXX7614,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0285,QR0159,TN80AB5194,98XXXX9649,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0286,QR0287,TN76AB6604,98XXXX2852,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0287,QR0228,TN57AB4264,98XXXX8113,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0288,QR0027,TN26AB7772,98XXXX4866,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0289,QR0034,TN87AB9357,98XXXX2834,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0290,QR0268,TN33AB2434,98XXXX1775,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0291,QR0008,TN62AB8550,98XXXX9210,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0292,QR0127,TN38AB9012,98XXXX8876,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0293,QR0220,TN71AB7811,98XXXX6750,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0294,QR0248,TN69AB1977,98XXXX6140,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0295,QR0259,TN60AB8385,98XXXX4852,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0296,QR0111,TN92AB6114,98XXXX2834,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0297,QR0250,TN94AB5809,98XXXX7088,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0298,QR0036,TN83AB7532,98XXXX3853,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0299,QR0209,TN67AB6530,98XXXX2320,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0300,QR0034,TN87AB9357,98XXXX2834,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0301,QR0078,TN56AB4422,98XXXX8978,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0302,QR0249,TN18AB3564,98XXXX7681,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0303,QR0220,TN71AB7811,98XXXX6750,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0304,QR0239,TN76AB4962,98XXXX8339,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0305,QR0097,TN23AB1118,98XXXX3517,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0306,QR0295,TN74AB9579,98XXXX1758,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0307,QR0089,TN30AB9983,98XXXX6381,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0308,QR0181,TN45AB5940,98XXXX7343,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0309,QR0194,TN26AB4758,98XXXX5346,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0310,QR0196,TN62AB8234,98XXXX7852,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0311,QR0267,TN79AB5788,98XXXX2787,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0312,QR0280,TN41AB6448,98XXXX3198,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0313,QR0255,TN18AB1695,98XXXX5749,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0314,QR0043,TN91AB8366,98XXXX9541,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0315,QR0239,TN76AB4962,98XXXX8339,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0316,QR0210,TN76AB9411,98XXXX6039,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Commercial Complex. Please respond urgently.,Notification Sent
+INC0317,QR0161,TN71AB5769,98XXXX1003,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0318,QR0165,TN11AB5774,98XXXX7991,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0319,QR0205,TN90AB1427,98XXXX2962,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0320,QR0108,TN75AB2096,98XXXX4266,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0321,QR0297,TN59AB7073,98XXXX8124,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0322,QR0012,TN10AB7842,98XXXX8679,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0323,QR0188,TN64AB3375,98XXXX6117,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0324,QR0194,TN26AB4758,98XXXX5346,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0325,QR0191,TN62AB3533,98XXXX2680,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0326,QR0081,TN50AB8042,98XXXX4599,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0327,QR0172,TN36AB9109,98XXXX1731,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0328,QR0080,TN74AB7744,98XXXX6632,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0329,QR0233,TN60AB6105,98XXXX4464,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0330,QR0278,TN44AB3784,98XXXX3648,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0331,QR0056,TN33AB8597,98XXXX5271,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0332,QR0030,TN36AB8288,98XXXX4610,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0333,QR0137,TN21AB3137,98XXXX2760,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0334,QR0132,TN73AB3394,98XXXX2479,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0335,QR0205,TN90AB1427,98XXXX2962,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0336,QR0082,TN40AB7393,98XXXX6333,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0337,QR0016,TN44AB1129,98XXXX4949,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0338,QR0031,TN99AB2061,98XXXX2589,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0339,QR0147,TN86AB9649,98XXXX8797,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0340,QR0241,TN54AB8949,98XXXX8383,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0341,QR0213,TN59AB2461,98XXXX9372,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0342,QR0069,TN18AB9417,98XXXX2129,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0343,QR0216,TN77AB3090,98XXXX7614,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0344,QR0029,TN39AB7668,98XXXX6417,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Emergency Exit.,Notification Sent
+INC0345,QR0117,TN68AB9599,98XXXX6657,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0346,QR0188,TN64AB3375,98XXXX6117,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0347,QR0258,TN23AB7236,98XXXX2334,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0348,QR0136,TN97AB1195,98XXXX1995,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0349,QR0286,TN91AB7629,98XXXX3694,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0350,QR0032,TN56AB5684,98XXXX3013,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0351,QR0294,TN79AB1505,98XXXX4520,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0352,QR0245,TN71AB3793,98XXXX8517,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0353,QR0055,TN49AB8800,98XXXX8831,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0354,QR0247,TN22AB8092,98XXXX7726,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0355,QR0161,TN71AB5769,98XXXX1003,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0356,QR0108,TN75AB2096,98XXXX4266,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0357,QR0079,TN99AB7034,98XXXX5978,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0358,QR0060,TN29AB1764,98XXXX9212,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0359,QR0101,TN54AB8368,98XXXX4128,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0360,QR0188,TN64AB3375,98XXXX6117,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Traffic Junction.,Notification Sent
+INC0361,QR0019,TN41AB2915,98XXXX9060,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0362,QR0129,TN40AB6686,98XXXX2087,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0363,QR0148,TN37AB4137,98XXXX9227,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0364,QR0199,TN95AB4499,98XXXX3982,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0365,QR0292,TN84AB5772,98XXXX7698,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0366,QR0164,TN17AB5617,98XXXX9960,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0367,QR0078,TN56AB4422,98XXXX8978,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0368,QR0270,TN98AB2354,98XXXX1834,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0369,QR0283,TN37AB4042,98XXXX2837,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0370,QR0212,TN61AB2660,98XXXX2707,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0371,QR0011,TN67AB5961,98XXXX9938,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0372,QR0096,TN58AB1432,98XXXX2980,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0373,QR0036,TN83AB7532,98XXXX3853,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0374,QR0222,TN36AB5727,98XXXX4919,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0375,QR0128,TN82AB8647,98XXXX5278,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0376,QR0029,TN39AB7668,98XXXX6417,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0377,QR0122,TN46AB3136,98XXXX6349,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0378,QR0186,TN42AB7608,98XXXX6962,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0379,QR0123,TN76AB3059,98XXXX4067,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0380,QR0150,TN95AB8294,98XXXX9289,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0381,QR0047,TN25AB1204,98XXXX1175,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0382,QR0026,TN11AB9593,98XXXX2079,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0383,QR0077,TN25AB2103,98XXXX6954,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0384,QR0001,TN92AB6556,98XXXX3539,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0385,QR0057,TN67AB7566,98XXXX4257,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Commercial Complex.,Notification Sent
+INC0386,QR0123,TN76AB3059,98XXXX4067,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0387,QR0161,TN71AB5769,98XXXX1003,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0388,QR0259,TN60AB8385,98XXXX4852,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0389,QR0277,TN52AB4719,98XXXX8838,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0390,QR0299,TN89AB4588,98XXXX2972,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0391,QR0159,TN80AB5194,98XXXX9649,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0392,QR0255,TN18AB1695,98XXXX5749,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0393,QR0205,TN90AB1427,98XXXX2962,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0394,QR0020,TN55AB5357,98XXXX4086,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0395,QR0017,TN32AB7683,98XXXX6854,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0396,QR0125,TN12AB1145,98XXXX3476,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0397,QR0244,TN84AB5249,98XXXX9275,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0398,QR0261,TN69AB2835,98XXXX1712,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0399,QR0135,TN90AB7542,98XXXX7821,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0400,QR0044,TN52AB6820,98XXXX9987,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0401,QR0102,TN25AB3342,98XXXX5915,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0402,QR0173,TN23AB5478,98XXXX6298,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0403,QR0273,TN95AB8308,98XXXX5062,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0404,QR0097,TN23AB1118,98XXXX3517,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0405,QR0210,TN76AB9411,98XXXX6039,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0406,QR0012,TN10AB7842,98XXXX8679,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0407,QR0141,TN62AB5071,98XXXX3870,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0408,QR0120,TN98AB3188,98XXXX9872,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0409,QR0274,TN68AB2251,98XXXX2817,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0410,QR0119,TN83AB5275,98XXXX6055,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0411,QR0200,TN85AB6519,98XXXX9945,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0412,QR0269,TN36AB9430,98XXXX7862,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Traffic Junction.,Notification Sent
+INC0413,QR0221,TN58AB1186,98XXXX9459,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0414,QR0053,TN55AB4568,98XXXX6578,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0415,QR0298,TN37AB1212,98XXXX9115,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0416,QR0095,TN29AB8412,98XXXX7735,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Shop Entrance.,Notification Sent
+INC0417,QR0129,TN40AB6686,98XXXX2087,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0418,QR0046,TN47AB6271,98XXXX2771,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0419,QR0263,TN75AB1039,98XXXX8699,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0420,QR0265,TN88AB8440,98XXXX3413,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0421,QR0244,TN84AB5249,98XXXX9275,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0422,QR0153,TN49AB1268,98XXXX4120,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Commercial Complex.,Notification Sent
+INC0423,QR0146,TN39AB8432,98XXXX2866,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0424,QR0299,TN89AB4588,98XXXX2972,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0425,QR0271,TN43AB7000,98XXXX5731,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Traffic Junction. Immediate attention required.,Priority Alert Sent
+INC0426,QR0202,TN39AB9108,98XXXX7917,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Commercial Complex.,Notification Sent
+INC0427,QR0114,TN54AB2076,98XXXX9231,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0428,QR0152,TN79AB7164,98XXXX3354,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0429,QR0136,TN97AB1195,98XXXX1995,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0430,QR0161,TN71AB5769,98XXXX1003,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0431,QR0283,TN37AB4042,98XXXX2837,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0432,QR0236,TN94AB4443,98XXXX4858,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0433,QR0270,TN98AB2354,98XXXX1834,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Traffic Junction.,Notification Sent
+INC0434,QR0109,TN53AB5426,98XXXX3720,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Commercial Complex. Please respond urgently.,Notification Sent
+INC0435,QR0067,TN70AB3121,98XXXX1086,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0436,QR0237,TN35AB5148,98XXXX6210,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Hospital Entrance. Immediate attention required.,Priority Alert Sent
+INC0437,QR0189,TN22AB7877,98XXXX9549,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0438,QR0049,TN73AB8266,98XXXX5663,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0439,QR0253,TN42AB7825,98XXXX8629,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0440,QR0219,TN91AB8396,98XXXX3638,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0441,QR0129,TN40AB6686,98XXXX2087,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0442,QR0297,TN59AB7073,98XXXX8124,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0443,QR0018,TN54AB1346,98XXXX6937,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0444,QR0191,TN62AB3533,98XXXX2680,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0445,QR0142,TN78AB2590,98XXXX4347,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0446,QR0062,TN39AB6445,98XXXX3517,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0447,QR0277,TN52AB4719,98XXXX8838,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0448,QR0058,TN92AB2778,98XXXX9883,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0449,QR0297,TN59AB7073,98XXXX8124,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0450,QR0161,TN71AB5769,98XXXX1003,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0451,QR0269,TN36AB9430,98XXXX7862,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0452,QR0046,TN47AB6271,98XXXX2771,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0453,QR0173,TN23AB5478,98XXXX6298,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Narrow Lane.,Notification Sent
+INC0454,QR0033,TN58AB3280,98XXXX5048,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0455,QR0100,TN94AB4383,98XXXX6731,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0456,QR0034,TN87AB9357,98XXXX2834,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0457,QR0113,TN32AB5665,98XXXX1715,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0458,QR0112,TN63AB7538,98XXXX9137,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Residential Street. Please respond urgently.,Notification Sent
+INC0459,QR0040,TN67AB7552,98XXXX7201,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Traffic Junction.,Notification Sent
+INC0460,QR0112,TN63AB7538,98XXXX9137,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Apartment Gate. Please respond urgently.,Notification Sent
+INC0461,QR0148,TN37AB4137,98XXXX9227,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Emergency Exit. Please respond urgently.,Notification Sent
+INC0462,QR0141,TN62AB5071,98XXXX3870,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0463,QR0288,TN15AB2213,98XXXX4969,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Commercial Complex.,Notification Sent
+INC0464,QR0276,TN38AB4703,98XXXX5604,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0465,QR0066,TN15AB9605,98XXXX7608,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0466,QR0252,TN82AB8357,98XXXX4448,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Narrow Lane. Please respond urgently.,Notification Sent
+INC0467,QR0056,TN33AB8597,98XXXX5271,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0468,QR0090,TN68AB3550,98XXXX1418,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0469,QR0085,TN34AB9738,98XXXX9339,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0470,QR0240,TN56AB7748,98XXXX6012,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Shop Entrance. Please respond urgently.,Notification Sent
+INC0471,QR0255,TN18AB1695,98XXXX5749,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0472,QR0244,TN84AB5249,98XXXX9275,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0473,QR0220,TN71AB7811,98XXXX6750,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0474,QR0244,TN84AB5249,98XXXX9275,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0475,QR0153,TN49AB1268,98XXXX4120,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Traffic Junction.,Notification Sent
+INC0476,QR0019,TN41AB2915,98XXXX9060,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0477,QR0032,TN56AB5684,98XXXX3013,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Commercial Complex. Immediate attention required.,Priority Alert Sent
+INC0478,QR0066,TN15AB9605,98XXXX7608,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Emergency Exit. Immediate attention required.,Priority Alert Sent
+INC0479,QR0132,TN73AB3394,98XXXX2479,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near School Zone. Immediate attention required.,Priority Alert Sent
+INC0480,QR0028,TN76AB8871,98XXXX4691,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Commercial Complex.,Notification Sent
+INC0481,QR0103,TN18AB1408,98XXXX7603,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0482,QR0084,TN83AB1105,98XXXX4543,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Pedestrian Sidewalk. Please respond urgently.,Notification Sent
+INC0483,QR0284,TN72AB3160,98XXXX2345,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Narrow Lane.,Notification Sent
+INC0484,QR0251,TN83AB9885,98XXXX7033,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Pedestrian Sidewalk.,Notification Sent
+INC0485,QR0257,TN66AB2150,98XXXX4115,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0486,QR0118,TN61AB7192,98XXXX8757,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Apartment Gate.,Notification Sent
+INC0487,QR0247,TN22AB8092,98XXXX7726,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near School Zone. Please respond urgently.,Notification Sent
+INC0488,QR0134,TN31AB8777,98XXXX8234,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
+INC0489,QR0127,TN38AB9012,98XXXX8876,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Commercial Complex. Please respond urgently.,Notification Sent
+INC0490,QR0042,TN92AB9861,98XXXX2195,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0491,QR0170,TN27AB8200,98XXXX8146,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Residential Street.,Notification Sent
+INC0492,QR0242,TN54AB6015,98XXXX3267,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Hospital Entrance.,Notification Sent
+INC0493,QR0085,TN34AB9738,98XXXX9339,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Traffic Junction. Please respond urgently.,Notification Sent
+INC0494,QR0260,TN33AB4803,98XXXX9520,High Priority,Standard Workflow,[HIGH PRIORITY] Your vehicle is currently blocking access near Hospital Entrance. Please respond urgently.,Notification Sent
+INC0495,QR0220,TN71AB7811,98XXXX6750,Emergency Critical,Escalation Required,[CRITICAL ALERT] Your vehicle is causing an obstruction near Apartment Gate. Immediate attention required.,Priority Alert Sent
+INC0496,QR0141,TN62AB5071,98XXXX3870,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Pedestrian Sidewalk.,Notification Sent
+INC0497,QR0247,TN22AB8092,98XXXX7726,Low Priority,Standard Workflow,[INFO] Minor obstruction reported near Shop Entrance.,Notification Sent
+INC0498,QR0060,TN29AB1764,98XXXX9212,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near School Zone.,Notification Sent
+INC0499,QR0022,TN72AB7050,98XXXX5575,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Commercial Complex.,Notification Sent
+INC0500,QR0019,TN41AB2915,98XXXX9060,Medium Priority,Standard Workflow,[NOTICE] Your vehicle may be causing access inconvenience near Residential Street.,Notification Sent
